@@ -1,0 +1,1914 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341f70c621778da438579b141471404b, type: 3}
+  m_Name: BookCollection
+  m_EditorClassIdentifier: 
+  bookInfors:
+  - songID: 0
+    name: The Walk
+    content: "Alice was everywhere, until she wasn\u2019t. Just like at first, she
+      was nowhere until she was. The absence of her before I knew she existed, was
+      nothing. Now, the absence of her shrouds everything. Like a guest who never
+      came to dinner; a stormy sky that didn\u2019t deliver. Nothing can wash away
+      the void where she used to be. This is what I\u2019m thinking about the first
+      time I take The Walk without her.  I met Alice at a dinner party, the raucous
+      kind with wild guests, beautiful people glittering in late summer air on a
+      second-floor balcony backlit by a September sky. We were all friends of Richard,
+      and this was his brilliant attempt to make all the people I love come together.
+      Or it was a lavish birthday party thrown for himself. You could never quite
+      tell with Richard.  He was my hairdresser, but I was included among the people
+      he loved the most, and so was Alice. From across the table, her eyes kept locking
+      mine with interest: hers large and dark and layered with mischief. Her husband
+      was older, serene. A balm to her boisterousness.  I know you from somewhere,
+      she\u2019d said, that night when there was both sweltering heat and a prelude
+      of autumn in the air. We sipped deep, earthy Bordeaux and had the getting-to-know-you
+      conversation. The what-do-you-do, are-you-married, do-you-have-kids variety. 
+      A week later, on my morning run with Copper, I ran into Alice again and now
+      we knew. This is where I see you! We both exclaimed it as we came into each
+      other\u2019s space on the trail, the wide, flat former track bed for trains.
+      Copper panted at my side, not used to the interruption in our run. Alice was
+      delighted. Although she didn\u2019t run, I agreed to slow it to a power walk
+      and changed direction, pulling a confused Copper along. The winds shifted:
+      the weather and my life, simultaneously.  I had been passing Alice on the trail
+      forever. Her Nordic ponytail, so blonde it was nearly white, had been in my
+      peripheral vision for years. In the winter she was encapsulated in bright,
+      good-quality warmth: red Patagonia outerwear and a multi-colored hat from another
+      dimension, such was the insanity of its pattern. Her body was fit and lithe;
+      ageless, from a lifetime of The Walk.  The Walk is so important, she\u2019d
+      tell me, but she didn\u2019t have to tell me. I stopped running, and my knees
+      responded with finally! For the love of God stop trying to break us, you aren\u2019t
+      young anymore! Alice, who I had flown by in summers before, barely noticing
+      her, became my near daily companion and without the run, The Walk became essential.
+      My knees, at age forty, were dissolving like broken concrete, but I still needed
+      the exercise, and, as it turns out, the companionship.  We figured out that
+      winter we\u2019d been passing each other more places than the trail. We had
+      circled each other forever, near collisions and missed encounters. Richard
+      was the hub that had put us on the balcony that night, Richard who collected
+      people like trophies, beautiful and successful ones. His Instagram had thousands
+      of followers.  But he doesn\u2019t really have friends, you know? Alice observed,
+      and I agreed. Richard was a perpetuator of vanity posting and humble brags,
+      king of the selfie with #nofilter. In person, you could see the ruddy undertones
+      of his skin and his bleached hair wasn\u2019t quite so effervescent. His need
+      to be complimented was painfully obvious, like a giant cut that oozed blood
+      and begged for stitches.  We discussed Richard at length, chiding ourselves
+      for gossip but agreeing: what we talked about on The Walk, stayed on The Walk.
+      It wasn\u2019t only Richard. Soon, we discovered that we\u2019d both worked
+      in the same office building, for years. She: the owner of a tiny, liberal magazine.
+      She had sat on comfy couches in jeans and sweaters drinking herbal tea and
+      brainstorming how to get her writers to be better on the fourth floor. One
+      level down, I had worn tailored suits in muted, professional colors\u2014dove
+      gray, classic black, the occasional cobalt blue. My hair was perfectly coifed
+      (thanks to Richard) and I wore red lipstick and heels and traded stocks for
+      rich people while advising them how to invest their life.  We must have seen
+      each other a million times! I wracked my memory, trying find one in which Alice
+      and I ride in the elevator together. I would have everything tightly in my
+      leather bag, some feminized version of a briefcase, clasped with both hands
+      in front of me, mentally running through the daily to-do list that forever
+      plagued me. Alice would have been in leggings, a messenger bag slung over her
+      body and a cardboard container with coffees for all her employees.  No memory
+      came, but we could not get over how wild the universe was. We had shared that
+      space for just under seven years, before Alice sold the magazine and retired
+      and before I quit my job when I was faced with dragons to slay in the form
+      of a mental breakdown.  But it wasn\u2019t just work and Richard. We soon realized
+      that we had both been at the wedding of Cassidy and Brian, who had also attended
+      Richard\u2019s party. Brian was a colleague of mine; I had known him for years.
+      Cassidy was Alice\u2019s neighbor before she married Brian. Both of us had
+      frequently double-dated with them. Alice and the Zen husband who was placid
+      like a golden retriever on tranquilizers. Me and David, before he died.  We
+      were a good year into The Walk before I talked about David. Before I told Alice
+      the story of how we were together forever, pushing off marriage because we
+      were focused on our careers. Someday, we\u2019d said, passing like strangers
+      in the night, as I left for work and he stumbled home from his life as an ER
+      doctor.  On The Walk, one day, I break down so violently we have to stop. It\u2019s
+      been two years since David died. It\u2019s been one year since I walked away
+      from my job in an attempt to salvage myself. It\u2019s been just under one
+      year since I stopped running and started Walking with Alice. She doesn\u2019t
+      say anything, and even Copper lies down on the path. He\u2019s a Vizsla, and
+      he\u2019s already pissed about not running anymore, but he\u2019s the only
+      one who has ever been born witness to this level of rawness.  Alice doesn\u2019t
+      say a word, and for this I fall in love with her. I have put up a wall between
+      myself and every other well-meaning person in my life who has tried to compartmentalize
+      my feelings, to attach names like grief or anger to the gaping hole in my life.
+      As if the space where David lived could be defined. As if they could quantify
+      what it meant to lose him.  After that day, Alice asks me only once about David,
+      and its only his name. I tell her, and her eyes grow wide and she stops The
+      Walk to tell me that she was married before the Zen husband. For a long time.
+      And that one day he had a heart attack, as workaholic men do, and the ER doctor
+      who tried to save him was named Dr. David Cross.  Was it him? she asks me,
+      tears glistening like a lighthouse beacon, flavored with something far away.
+      I nod, rapt with hunger to hear of the moment when Alice met David. She tells
+      me how it went down. How very young the doctor seemed. How he also cried, blinked
+      back tears, as he sat in the room with her, the one where they took people
+      to tell them that their loved one didn\u2019t make it.  David often came home
+      with the broken heart of a man trying to meld science and God. So often, he
+      laid his head on me, told me a story\u2014a mother falling to her knees, a
+      husband. A wife. I tried to extract the memory, so sure was I that he must
+      have cried into my hair one dark morning about Alice. Must have told me about
+      the beautiful blonde woman with the supple body that had fully expected her
+      husband to make it.  My God, its like we were supposed to meet! Alice recovers
+      from the brief trip back in time, to a place where darkness kept her isolated
+      until the Zen husband materialized. It was like Dorothy arriving in Kansas
+      when he did. It wasn\u2019t home, not exactly, but everything was beautiful
+      and colorful and magical again.  Most of The Walks were not so deep. Alice
+      was older than me, a young septuagenarian. She was certain I\u2019d fall in
+      love again, so much so that she told me not to worry about it and to let her
+      handle it. I laughed and indulged her, saying yes when she suggested we take
+      The Walk into her neighborhood because there\u2019s a very, very cute man who
+      lives on the corner and I\u2019ve already told him I have a hot stockbroker
+      friend!  We did The Walk in all the seasons. Winter was Alice\u2019s favorite,
+      when the air was the cleanest and Copper shone like fire against the snow.
+      Alice convinced me to let him loose, assuring me that once he was free, he
+      would never leave. Her logic made no sense, and yet she was right. After nearly
+      a decade of straining on his leash, Copper took a few laps and returns to us,
+      contentedly sniffing along.    Summer was my favorite, with the sun that turned
+      me golden for the first time in years, as I was no longer in an office for
+      ten hours a day. I was circling a drain of my own imposing, a two-year mark
+      in which carefully allocated funds would be used up, and I'd have to return
+      to work. Alice said screw that and reminded me that I know how to make more
+      money, that I\u2019m the investment genius after all. I told her it\u2019s
+      not that simple, but I cannot help delighting in the way my hair has lightened
+      and the way the day feels like forever when you\u2019re outside to enjoy it. 
+      We both love fall; after all, this is when we met for the first time on a conscious
+      plane of existence. We commemorated two years of knowing each other one September
+      morning, agreeing to abort The Walk in favor of breakfast. Alice said she'd
+      pick me up, that she knew a great little diner off the beaten path. She took
+      me to a place called The Bean, and I suppose I should've be shocked but I wasn't,
+      not after all this time.  I love this place, she says to me. I used to get
+      coffee almost every morning on my way to work.  Me too, I say, and inside she
+      revealed her ulterior motive for bringing me here, to a place I haven\u2019t
+      once visited or come to since my self-imposed sabbatical.  Look, she whispered,
+      as if we were detectives solving a crime. No, don\u2019t be obvious! Look at
+      the guy behind the counter!  I eyed the barista and rolled my eyes. While I
+      agreed that he was adorable, I reminded Alice that I\u2019m forty-two years
+      old and the barista is a child, maybe twenty if that. Alice didn't care.  Age
+      is just a number! Look at the Zen husband! He\u2019s years older than me. It
+      doesn\u2019t matter! I\u2019m telling you. Your soulmate is right around the
+      corner, I can feel it.  Before I could say that David was my soulmate, she
+      waved her hand as if brushing a fly off my shoulder. She pushed my coffee across
+      the table towards me, she held the moment with her eyes and her secret smile.
+      We have lots of soulmates, don\u2019t you think? I gushed with gratitude inside,
+      knowing what she wasn\u2019t saying. This friendship, this life we\u2019ve
+      led alongside one another without even knowing about it, has undoubtedly been
+      orchestrated by some type of higher power.  When spring comes, Alice insists
+      that she\u2019s very close to figuring out who my new soulmate will be, and
+      that she\u2019ll be the one to introduce us. I\u2019m telling you, this is
+      happening!  I side-eye her, ash-colored hair trailing in the spring breeze
+      that\u2019s rousing all the pollen, the main reason Alice dislikes spring.
+      She carries an inhaler and has tissues in her pocket even though I suggest
+      we skip on days when the pollen count is high. I\u2019ve started to believe
+      that she\u2019s correct and feel a bit excited for the future. I tack on another
+      six months to my sabbatical.  The Walk has become a near daily staple. Alice
+      has become the best friend I\u2019ve ever had. Copper is settling into his
+      geriatric-hood with ease, like a fresh sheet billowing over a bed. The dark
+      parts of my life have feathered away into just strands, and I have spent gobs
+      of money on a therapist but both he and I agree The Walk has been an even greater
+      part of my healing. David can now exist in my mind with bittersweet nostalgia
+      instead of shards of pain.  One day in late April, Alice collapses on The Walk. 
+      It\u2019s preposterous\u2014Alice is healthy and we walk daily and she does
+      yoga and Pilates and spin and takes an adult tap class\u2014but there she is,
+      lying on the packed dirt that is dry already from a spring where rain eludes
+      us. Copper panics, and when he does, I know something is horribly wrong. I
+      don\u2019t know what to do\u2014I don\u2019t know CPR and other than her asthma,
+      I don\u2019t know what could be wrong. In the end, I dial 911, and the operator
+      tries to guide me through resuscitation. My lips feel gummy against Alice\u2019s;
+      my hands feel as though they are crossing some boundary as they push heavily
+      on her chest.  Come on, I say to her, and in my head, I\u2019m already narrating
+      the story we will tell, of how she collapsed, and I saved her. We will tell
+      our friends at dinner and there will be some innocuous but easily fixable culprit:
+      a heart valve that\u2019s repaired perfectly, a piece of chewing gum that became
+      lodged in her airway. Nothing that will change anything at all.  The story,
+      it turns out, ends with Alice dying.  I go in the ambulance with Alice, a vaguely
+      familiar hiker at the head of the trail offering to take Copper back home and
+      deposit him into my fenced in yard. Copper\u2019s eyes tell me it\u2019s okay,
+      that he will be safe with this stranger. In the waiting room of the ER, I dial
+      the Zen husband, but I only get his voicemail. I leave him a message, keeping
+      it breezy, because I\u2019m still writing the fantasy in my head where she
+      lives.  But she doesn\u2019t. The doctor who comes out to tell me is astonishingly
+      handsome. He looks like David if David had been allowed to age. I collapse
+      into a primal howl, I seem to shake both of us, as if a widow and an ER doctor
+      were new to death. Brain aneurysm, he tells me.  When I leave, he assures me
+      the Zen husband is on his way and not to worry, he will handle it. But it doesn\u2019t
+      matter. Alice is gone. I Uber myself home, eternally grateful to find that
+      Copper\u2019s babysitter has done what I\u2019ve asked and deposited him in
+      my backyard. I collapse on my couch, wanting David. Wanting Alice. I have lived
+      too much of my life without her and now, she dies? It\u2019s not fair. I will
+      never Walk without her, I vow.  Days later, I break the vow, because of Copper.
+      Because I want to leave a note at the trailhead to thank the man who I trusted
+      with Copper and my address and my gate code. Because Copper is a Vizsla, and
+      he needs exercise. I am achingly aware of the empty space beside me, like a
+      bubble that has popped. I would give anything to see Alice round the bend ahead,
+      her familiar gait, one of her crazy hats and her wild blonde hair.  But she
+      doesn\u2019t, and when I get to the point where we usually turn around, I sit
+      down and cry again. I can hear her, I swear I can, as if the wind rustling
+      is really her and my magical thinking is really true. After awhile it calms
+      down and everything is silent again. When I stand to turn back, the leash-less
+      Copper bolts ahead to inspect a person who\u2019s come around the bend. Again,
+      for a half-second, I dream that its Alice.  It\u2019s not Alice, but by some
+      strange coincidence, it\u2019s the man who took Copper home for me. Incredulously,
+      I show him the note I was going to post, I pump his hand in thanks and when
+      I touch him, I feel something pass between us, as if I\u2019ve been here before.
+      I can tell he feels it too. Copper pants beside us.  This might seem weird,
+      the man says, but do you want to walk with me?  Okay, I say, and Copper takes
+      off ahead of us.  Is your friend okay? He asks this with genuine concern, with
+      kindness, and the jolt of remembrance nearly knocks me off-balance. I can hear
+      Alice\u2019s words: I\u2019m going to find him for you, your next soulmate.
+      I suddenly realize, without a doubt, that she\u2019s fulfilled her promise.
+      I have no logical reason for believing this, and yet, I do.  She didn\u2019t
+      make it, I breathe out, and I find myself telling the story of Alice and our
+      parallel lives and explaining The Walk and how much I miss her\u2014telling
+      it all to this stranger. We start talking about our lives and we don\u2019t
+      stop for the entire Walk.  Up ahead, Copper runs free."
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  - songID: 1
+    name: The Ungentling
+    content: "Bill\u2019s disappeared upstairs with the little sickly girl but me
+      I\u2019m here to see the blind woman. I hear she did it on purpose, tore donkey
+      tail out of the earth and smeared its milky sap directly in her eyes. It must
+      of stung her hands and face bad and maybe left marks on her fingers. Near Santa
+      Fe, men, women and children are always getting possessed of this sort of ecstasy
+      and seem like taking pleasure in swallowing poison and fire and stepping on
+      scorpions and suchlike. But it ain\u2019t superstition like the government
+      try to tell me in the last war. Superstition I know \u2014 that\u2019s when
+      you got to tie your right boot afore your left, or when like they say you can
+      shoot your brother when he wears gray but not if he wears blue. It does make
+      a sort of sense, long as you don\u2019t look at it head-on and just leave it
+      ghostly in the peripheral. But Bill don\u2019t like superstition. He explained
+      it all to me after we strangled that poor boy at Fort Smith. \u201CWe done
+      nothing \u2019cept kill \u2019em for two years and now you\u2019re boo-hooing
+      over another one,\u201D he growled, and I thought and thought about it and
+      figured he was right.   But the blindness is no superstition. Even Bill\u2019s
+      got to know that.   I turn from the lamps and laughter and follow the proprietor
+      to the musky rear of the whorehouse. He ain\u2019t Anastasio like it was during
+      the Mexican War. He\u2019s someone smaller and younger than I guess Anastasio
+      would be now but with his same unreadable black eyes like pools of tar, sullen
+      and restless. He leads me down a short flight of steps and under a wooden lintel
+      so low I got to stoop.   \u201CYou speak English?\u201D   He jerks his head
+      vaguely, without comprehension.   \u201CI seen a Roman priest here today. You
+      people say at the end a\u2019 the day the love a\u2019 God and love a\u2019
+      women are one and the same. Guess that\u2019s how come at the end a\u2019 the
+      day you got the prostitutes, prophetess, and padres all under one and the same
+      roof!\u201D   Bill thought that one was funny when I told it him. It don\u2019t
+      have much effect on Anastasio\u2019s heir. \u201CPerd\xF3n, se\xF1or,\u201D
+      he mutters, and nearly shoves me to a chair I can\u2019t hardly see for the
+      darkness.   The room\u2019s lit only by two candles set afore a holy picture
+      in the far corner. It\u2019s the same picture as sixteen years ago: a gloomy
+      and gory Jesus-on-the-Cross with white and wild eyes rolling back in his head.
+      It makes me sick to see. I don\u2019t take much stock in any sort of Jesus
+      but if I got to choose I\u2019d prefer Jesus-the-Good-Shepherd or Jesus-Blesses-the-Little-Children.
+      I\u2019ve my own fondness for children, if you can believe it. Maybe she\u2019s
+      lighted \u2019em specially for my benefit \u2014 a blind woman don\u2019t need
+      candles. Well, she shouldn\u2019t of bothered. I stare at his face with distaste,
+      so disturbed I don\u2019t notice her already sitting across from me.   I suffer
+      a whole series of shocks. First, that she\u2019s in the room and I didn\u2019t
+      know it. Second, that her hair\u2019s still the thick, darkish red I remember,
+      untouched by the intervening years. Her face ain\u2019t so lucky \u2014 the
+      third shock \u2014 pocked and wrinkled and spotted and pouched unpleasantly.
+      She looks old, lot older than me anyhow. It\u2019s a shame. She\u2019d been
+      a real beautiful woman once if it hadn\u2019t of been for the eyes.   Her eyes
+      like the eyes of Jesus don\u2019t look maybe how you\u2019d expect. They\u2019re
+      mostly shut, and I wish she\u2019d just shut \u2019em all the way and be done
+      with it. That way she\u2019d look soft and gentle so as to gladden the hearts
+      of men. But problem is she don\u2019t shut \u2019em. There\u2019s always that
+      sickening white and wild stripe Anastasio told me had ruined her for ordinary
+      work. \u201CWe cannot always keep the ones with holy sickness,\u201D he confided
+      in me in his odd English that cold night in January of \u201947. I\u2019d been
+      left in the New Mexico Territory to rot with a thousand other American soldiers,
+      liable to die like dogs of the bloody shits. \u201CThey are who are called
+      las desad\xF3ciles \u2014 the ungentle ones.\u201D   Her breath comes in labored
+      shudders. I watch the whites of her eyes flicker and dart; I feel strangely
+      that she\u2019s watching me. Without my meaning to, my own breath shifts to
+      match her pace: slow, deliberate, each hauled from below like one of the last
+      few of a precious cache. Her spider-webbed hand creeps across the table to
+      find mine, lean and hairy.   \u201CTe recuerdo.\u201D   I jump a little.  
+      \u201CYou are changed.\u201D Her voice is aged but clear, neutral like she
+      don\u2019t care so much whether or not I have.   \u201CYou too, Esperanza,\u201D
+      I say hopefully, uneasily. I wonder what it is she can see. I lift my other
+      hand to trace the scar across my cheekbone, clumsily stitched and even more
+      clumsily healed \u2014 a habit developed after Pericles trampled it at Little
+      Rock. The poor horse did it on accident but that don\u2019t stop me getting
+      rheumatism of the face as the eternal consequence. Ain\u2019t been a good thing
+      in the winter. \u201CThere\u2019s a war again but it ain\u2019t with the Mexicans
+      this time. It\u2019s against ourselves.\u201D   I figure that might impress
+      her. But she don\u2019t respond to the news.   \u201CYou are a murderer and
+      a thief,\u201D she says simply in the same neutral, level tone.   \u201CYou\u2019re
+      a whore and a liar.\u201D My fingers tighten slightly round her wrist. Her
+      pulse carries on beneath their hold with maddening indifference. \u201CI ain\u2019t
+      any more a killer or thief than I ever was. You ever lay night after night
+      after night on the rock, dizzy and burning and freezing with pain, groaning
+      for a death that never comes? And wasn\u2019t anyone cared. Soon as I could
+      walk they threw me back up on a horse and marched me through Arkansas. It\u2019s
+      the 8th Missouri Cavalry as stole from me \u2014 it\u2019s them as tried to
+      kill me. Bill and me took our due, I figure, and we\u2019ll be in California
+      come spring. I ain\u2019t no thief.\u201D I think of the strangled boy, his
+      tongue lolling purple from a blue and yellow face. \u201CAnd that guard was
+      just another grayback. I b\u2019lieve I shot dozens a\u2019 others afore him.
+      They don\u2019t count neither \u2014 they\u2019re enemies a\u2019 the Union.\u201D 
+      My knuckles are nearly white. I slacken, surprised, and pause to see if Esperanza
+      is at all moved.   \u201CYou are making a confession?\u201D  \u201CNo, I ain\u2019t.
+      I\u2019m here for prophecy, not forgiveness. I don\u2019t need it. And you
+      was wrong that last time. About Bill. He never hurt me none.\u201D My mind
+      glances back suddenly over the stretch of sixteen years, of my old farm in
+      Greene County, the venture, the loss and despair, the faint shimmer of escape
+      I thought the army would afford me one last time. Foolishness \u2014 vanity
+      of vanities! I clear my throat. \u201CBill\u2019s a heartless old bastard but
+      he\u2019s alright. He\u2019s all I got now.\u201D  \u201CWhat is it you want?\u201D 
+      \u201CProphecy, goddammit!\u201D My fist hits the table with a resounding bang.
+      \u201CYou\u2019re costing me five times as much as any a\u2019 the other girls.\u201D
+      I\u2019m ashamed to say what I\u2019d dreamed the past couple months in those
+      quiet hours twixt waking and sleep. I\u2019d dreamed maybe she\u2019d love
+      me this time. Maybe this time she\u2019d know I was different from the others,
+      the Bills and Anastasios she knew best. Maybe I could rescue her \u2014 maybe
+      the red hair and milky eyes I couldn\u2019t forget would remember me. \u201CTe
+      recuerdo\u201D did she say? Does she know who I am? I\u2019d rather she don\u2019t.
+      And for a fleet second I know what the Mexicans know about the love of God
+      and of women.  Esperanza\u2019s eyelids flutter open to reveal the amber crescents
+      of irises long since out of use. She pants in haggard and rhythmless breaths.
+      \u201CYou are a slave to yourself in a dark world,\u201D she rasps \u2014 no
+      soft clearness now \u2014 I try to scrounge up some disgust for this old hag
+      I\u2019d come to worship. \u201CYou trust in the lies of man, in the false
+      burdens of time and distance, of flux, of entrance and exit. You are blind
+      in your sight. Find and follow the narrow path of the real, the self not itself
+      emptied of itself. This alone is worthy of your life and your death.\u201D 
+      She throws her head back and wails, a long high wail like a coyote\u2019s,
+      containing within itself the nameless grief of thousands of years \u2014 the
+      howl of the desad\xF3ciles. Her hand creeps along my arm. My skull starts to
+      burn. The room whirls white-hot. Then I\u2019m pulled upward, out of the dark
+      room, out of the whorehouse, out into cold air over the small city of Santa
+      Fe, then higher till the whole of the Sangre de Cristo range shows afore me.
+      I see the route me and Bill took out of Colorado into the city all at once.
+      I watch a sharp westerly whip snow into life what must be many miles beneath
+      me.  The atmosphere warms. A pink and orange glow spreads like moss over the
+      mountains. Their summits melt into rivers and pour into the valleys, so many
+      libations to an unknown god. Deserts blossom into cactus flower and the silent
+      teem of insects. Forests thicken and scream with an obscene abundance of life,
+      then hush into the brown pallor of autumn. My head aches with the effort to
+      hold it all in, to see all there is to see.  Railroads are born. Criss-crossing
+      like snakes or poisoned veins they dart through the Rockies, through the country
+      and south of the city. Noise and smoke like you couldn\u2019t imagine ascend
+      to the heavens. Santa Fe explodes in concrete and lights. Nights and days pass
+      with bewildering rapidity as fire and poison and concrete stretch and stink.
+      The Sangre de Cristos begin to erode. So does the city, until the whole terrain
+      is rubbed layer by layer, brick by brick into smooth lumps of sand. The sun
+      reaches out a hand and engulfs the planet. I want to cry out Stop stop but
+      I can\u2019t. I don\u2019t know that I have a mouth to speak.  And just as
+      suddenly the scene reverses. Mountains rear their heads. The railways peel
+      away like spruce gum. I\u2019m back to where, or when, I started. The wind
+      seems to retreat, siphoning ice off the peaks. Leaves rise from rocks and fasten
+      themselves to trees, then shrink and swell with springtime juices. Faster and
+      faster time turns on itself; covered wagons and traders on horses stream back
+      eastward; flocks and herds migrate, depart, return; Comanche and Apache mingle,
+      raid, and clash with Spaniards.   Even faster now. Great beasts like hairy
+      elephants rage, then give way to jungles of reptilian horror. Mountains wax
+      and wane, wax and wane \u2014 the globe spins like a top \u2014 flood covers
+      the earth. The waters recede. Now darkness, a formless void, and a light like
+      a single pinprick. I am blind; that pinprick is all that\u2019s left.  **************************************************** 
+      I\u2019m lying outside, mouth agape, when Bill finds me.   \u201CLooks like
+      the old girl treated you right.\u201D He nudges my unresponsive side with the
+      toe of his boot. \u201CSure don\u2019t make \u2019em like they used to, tell
+      you what. The little one, what\u2019s-her-name \u2014 I swear she ain\u2019t
+      worked a day in her life. I like \u2019em better when \u2014\u201D  \u201CYou
+      leave me alone, Bill.\u201D  His hulking shadow starts. \u201CHngh?\u201D 
+      \u201CI figure you heard me.\u201D I struggle to my feet.  \u201CWhaddya mean,
+      Paul?\u201D  \u201CI mean leave me alone. We\u2019re going our separate ways.
+      And don\u2019t you ever again dare talk about her like that. You hear me?\u201D 
+      Bill\u2019s gristly face scowls. \u201CThat right? And who\u2019s gi  tting
+      our cash, I wonder?\u201D  \u201CI don\u2019t care about no cash. Take all
+      the cash in the world, Bill. Hell, take all the gold in California. I got to
+      go back. I\u2019m going to Fort Smith. I\u2019m going back to the regiment.\u201D 
+      Bill yanks me up by the collar and shakes till everything goes in circles again.
+      \u201CYou\u2019re gonna confess, is it? Got religion all of a sudden cause
+      a old lady don\u2019t like your looks? Real noble, your confessing for the
+      both of us. Well I don\u2019t like that, Paul. I don\u2019t like that at all.\u201D
+      He drops me gasping to the ground. Dazed, I try again to stand. Bill makes
+      quick work of me \u2014 he once beat a bare-knuckle boxer who traveled round
+      challenging folks to matches \u2014 three blows to the head and I\u2019m flat
+      on the ground. He looks at me, hesitates, then brings his foot down hard. My
+      nose bursts in a bloom of scarlet; my skull fractured once by a frightened
+      warhorse shoots with flame.  \u201CHate to do it to you, Paul,\u201D he shouts
+      over his shoulder. \u201CCan\u2019t have you whining like a girl to no authorities
+      afore I git out. I thought you was my friend!\u201D Bill\u2019s already on
+      his way out of town.  I roll to my back. Blood flows into my eyes but I can
+      still make out the stars. And I weep like a child, ungentled."
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  - songID: 2
+    name: Echelon
+    content: "Leaning against a tarnished railing aboard a ferry, Katherine watched
+      ocean waves curl into themselves. Close to her chest, she held a pewter urn
+      containing her mother\u2019s cremated remains. She breathed deeply, the taste
+      of brine caking her tongue like damp ash. The midday sun reflected in droplets
+      that quavered on the balusters, then trickled down like little rivulets, only
+      to reappear from the periodic spray of waves breaking against the prow. Other
+      ferry goers chattered around her, though Katherine was only vaguely aware of
+      them. Her thoughts were on the last conversation she had with her mother. All
+      this time out on the ocean, chasing fish \u2014  \u201CMommy, do you think
+      we\u2019ll see a whale today?\u201D asked a little girl in polka-dots and a
+      wide-brimmed straw hat, her voice somehow cutting through the din.  \u201CI
+      hope so,\u201D her mother replied, dressed in flowy linen pants and wearing
+      lipstick the color of strawberries.  The oversized straw hat reminded Katherine
+      of a cowboy hat she tried to wear when she was young. It was oversized too,
+      and quickly made her forehead sweat. It would shift down over her eyes as she
+      galloped around the house, pretending to be a rancher, or cowboy, or sheriff
+      chasing after an outlaw who was always a beautiful woman who smiled deviously,
+      smoke curling from between her teeth, bullet holes perforating her own rawhide
+      cowboy hat, an image that caused Katherine to grow warm and jittery and, inevitably,
+      trip or bump into a wall, a table, her mother\u2019s legs.  \u201CTake that
+      thing off,\u201D her mother had said.  \u201CBut I\u2019m a cowboy!\u201D 
+      \u201CCowgirl. And cowgirls don\u2019t need to wear boys\u2019 hats like this.
+      Take it off, I\u2019ll buy you a prettier one.\u201D  \u201CBut I like this
+      one. It was daddy\u2019s.\u201D  With a serene smile, her mother gently lifted
+      the hat away from her head, and Katherine will never forget the noiseless way
+      she turned, almost perfectly on an axis, as though a steel wire ran through
+      her core connecting her floor-to-ceiling, or the white of her knuckles she
+      crumpled the hat into the kitchen garbage can.  The little girl in the polka-dots
+      bumped into Katherine\u2019s leg accidentally; her straw hat fell atop Katherine\u2019s
+      feet.  \u201COh my gosh, I am so sorry!\u201D her mother exclaimed.  \u201CIt\u2019s
+      okay,\u201D Katherine replied.  \u201CMelissa,\u201D the woman said, turning
+      to her daughter, \u201Csay you\u2019re sorry. We can\u2019t go around bumping
+      into people, especially not on a boat.\u201D  \u201CI\u2019m sorry for bumping
+      into you on a boat,\u201D Melissa said, looking down so her tangled mass of
+      curls covered her face.  Katherine knelt down and retrieved the hat, handed
+      it over to Melissa. \u201CYou know, I used to have a hat kind of like this.
+      It was a little too big for me, so I\u2019d run into stuff all the time. The
+      trick is you\u2019ve got to angle it up, like this.\u201D She placed it on
+      Melissa\u2019s head slantways, the front brim almost perpendicular to the sky.
+      \u201CPlus, if you keep the brim away from your eyes, you can catch sight of
+      a whale better. Around here, you\u2019re looking for a gray whale. They leave
+      big splashes that you can see from miles away, so watch the horizon. Or sometimes
+      they\u2019re sneaky, and do this thing called spy hopping, where they\u2019ll
+      just peek their heads out enough to see where they are. Watch for that too.\u201D 
+      Melissa\u2019s mouth gaped. \u201CHow do you know so much about whales?\u201D 
+      \u201CI\u2019m a cetologist \u2014 a whale scientist.\u201D  \u201CThat\u2019s
+      so cool! Mommy, did you hear that?\u201D  \u201CI did,\u201D she replied, her
+      voice lilting as her gaze lingered on the urn Katherine cradled.  \u201CWell,
+      it was nice meeting you Melissa. Keep your eyes open, there\u2019s bound to
+      be some whales out today.\u201D  Melissa said thanks and returned to her mother\u2019s
+      side, who mouthed thank you, then parted her strawberry lips as though to give
+      condolences, but decided better, and instead smiled with crinkled eyes that
+      said sorry for your loss as she turned and meandered further along the railing,
+      pulling her daughter close to her side.  Echelon. That\u2019s the supportive
+      position a mother whale takes with her calf while swimming, to reduce the water
+      drag. This means, of course, the mother must take on excess water drag. Katherine
+      looked down at the urn, sunlight glinting off its smooth edges. Her mother
+      had loved whales \u2014 cetaceans, as Katherine now thought of them. Her mother\u2019s
+      favorite was the gray whale, in fact. She had known little to nothing about
+      gray whales, however; the preference was purely sentimental. She\u2019d tell
+      Katherine she went whale-watching with her father on the happiest day of her
+      life, pausing for effect before delivering her coup de grace: that it was the
+      day she found out she was pregnant. She said this often enough that Katherine
+      could recite the second half of the phrase, rhythm, inflection and all, and
+      would do so with rolled eyes, much to her mother\u2019s chagrin. As a cetologist,
+      Katherine knew that the average gray whale was approximately forty-five meters
+      in length. She knew they weighed between thirty and forty tons, and that they
+      were bottom feeders, turning laterally to skim the ocean floor, sifting stirred
+      up sediment through their baleen, keeping the food and sieving out the rest.
+      She knew their lives revolved around two things: one half of a year was spent
+      gorging themselves, hopefully storing enough fat to make the long migration
+      south, where during the second half of the year they would mate and rear their
+      young. Once the calf was grown enough, it was time to make the treacherous
+      journey back north. Had her mother known all this, she may have loved them
+      more \u2014 or disliked them. Similarity breeds either camaraderie or resentment,
+      there isn\u2019t really any in between. Katherine\u2019s mother had devoted
+      her life to supporting her daughter, never remarrying, always working, and
+      always, always keeping her in echelon. It\u2019s part of what made their last
+      conversation so difficult to stomach.  \u201CMommy, look!\u201D Melissa cried.  
+      Katherine saw it too \u2014 something gray and sleek, gliding just beneath
+      the waves, not far from the bow. Her heart leapt; she leaned over the edge,
+      taking care to redouble her grip on the urn. Was it a porpoise? No, too large.
+      A whale? The size was right, but this was unlike any whale she\u2019d ever
+      studied. Whales lumbered. This, this shot through the water like a torpedo.
+      After a moment, it disappeared abruptly into the depths, like a dumbbell dropped
+      into the ocean.   Katherine shook her head in disbelief, peered closer to be
+      sure nothing was there.   \u201CMommy, where\u2019d the whale go?\u201D  \u201CI
+      don\u2019t know, maybe it\u2019ll come back up! Let\u2019s keep watching.\u201D 
+      \u201CBut where did it\u2026\u201D  Katherine had no idea what they had just
+      seen, but she knew it was no whale. Her breath quickened as the slap of the
+      waves against the prow and the conversation between Melissa and her mother
+      became muted. Dark and ominous, the deep whisked past with a cool urgency. 
+      Then, an explosion of water nearby, too loud to be a whale\u2019s breach. Heads
+      turned. Melissa\u2019s hat fell to the deck. Out of the ocean, a matte gray
+      object slid silently toward the sky, impossibly fast. It had already reached
+      the clouds by the time droplets from its breach began falling into the bay,
+      their pattering deafening compared to the absolute silence of the flying object.
+      The craft stopped half-in half-out of cloud cover\u2019s edge, immediate and
+      precise, yet with an ease that indicated it carried no inertia. It hovered,
+      then began slowly rotating. It was oblong, with small teal lights pulsing in
+      a steady line down its center, as though it were breathing.   Everyone aboard
+      the ferry was silent. The sky itself seemed to lurch with the waves. Then,
+      a mass of cumulus above the craft began to warp, as though God was pressing
+      his thumb through tissue paper. But instead of a great whorled print, what
+      pressed through was the long, rectangular nose of another craft, twice as large
+      as the first. The smaller oblong craft attached to the bottom of it. Blue electricity
+      arced along their fuselages, then the two craft, reunited, alighted soundlessly
+      into the generous clouds. Melissa began to cry. People looked at one another,
+      back at the sky, down at the ocean. Murmurs began rolling across the deck like
+      pebbles preceding an avalanche.   A searing white light flashed across the
+      bay, so quickly that Katherine had no time to shield her eyes. For a brief
+      moment, there was intense pain, then utter silence. Everywhere, a pure infinite
+      white. No ocean, no sky, no way to orient. Katherine couldn\u2019t tell if
+      she was floating, standing, or lying down. She did know that she was alone.
+      She hugged herself close and began to shake, panic welling up rapidly.  \u201CHello,\u201D
+      came a voice, gentle and sonorous, surrounding her yet also within her.   A
+      silhouetted figure appeared in the distance, like an inky black pupil in the
+      infinite white. It seemed humanoid; but, when it raised its arm there was the
+      outline of a chitinous claw where there should\u2019ve been fleshy fingers
+      and a meaty palm. The silhouette\u2019s arm, upheld, moved gingerly left, then
+      right, then left.  \u201CWhat \u2014 what the hell is going on?\u201D Katherine
+      stammered.   \u201CYou may be at ease,\u201D assured the being, and against
+      her will Katherine\u2019s feelings immediately released into a deep sense of
+      spacious warmth. She knew this feeling \u2014 the feeling of curling up next
+      to her mother when she was very young, a plush blanket covering them both,
+      her mother braiding her hair as they watched The Beauty and the Beast for the
+      fifteenth time. Safe. Space, warmth, safety, they seemed boundless then, as
+      they did now.  \u201CWhat are you doing to me\u2026why can\u2019t I be scared
+      right now?\u201D  \u201CDo you wish to feel fear?\u201D asked the being, cocking
+      its head inquisitively.  \u201CI \u2014 I feel like I should.\u201D  The being
+      paused for a moment, as though to consider its next words carefully. \u201CHow
+      do you know what you should do?\u201D   The question sparked another memory;
+      Katherine\u2019s last conversation with her mother before she passed:  \u201CAll
+      this time out on the ocean, chasing whales \u2014\u201D  \u201CCetaceans, Mom.\u201D 
+      \u201CCetaceans. You\u2019re so beautiful, I can\u2019t for the life of me
+      understand why you never spend any time dating.\u201D  \u201CI can\u2019t understand
+      why that\u2019s so important to you. I\u2019m happy, Mom. Isn\u2019t that enough?\u201D 
+      \u201CLook, Katherine \u2014 all I\u2019m saying is you should think about
+      your future. I know you love your work. I love your work too. Cetaceans \u2014
+      whales \u2014 are my favorite animal. You remember we used to look at that
+      whale book I picked up from the bookstore when you were young? And we each
+      picked our favorite whale? And my favorite whale was \u2014\u201D  \u201CThe
+      gray whale, because you went whale-watching on the happiest day of your life,
+      which was the day you found out you were pregnant with me, which I\u2019ve
+      heard so, so many times. I get it.\u201D  \u201CThen you get that at some point,
+      you should settle down. Find a husband, raise a family! It\u2019s important
+      for a woman\u2026you can\u2019t imagine what a wonderful thing it is!\u201D  
+      \u201COh, because it worked out so well for you. Dad left. How the hell do
+      you know what I should do?\u201D Katherine said, shaking with indignance.  
+      Katherine\u2019s mother recoiled as though she\u2019d been slapped. \u201CHow
+      do I know? Fine, maybe I don\u2019t. But tell me Katherine, how do you know
+      what you should do? What are your priorities?\u201D   \u201CMom\u2026\u201D
+      Katherine had hesitated, her shaking spilling over into tears. \u201CI don\u2019t
+      want a family. I don\u2019t want kids. I don\u2019t want a husband, I don\u2019t\u2026like
+      men.\u201D She was whispering by the end of her confession, but her gaze stayed
+      on her mother\u2019s face.  It was expressionless. Void. It hardly moved when
+      her mother instinctively grasped the studded crucifix around her neck.  \u201CKatherine,
+      what?\u201D  \u201CI said I don\u2019t like men.\u201D  On the kitchen wall
+      behind where they sat, an old clock ticked. Katherine\u2019s mother stood,
+      her chair scraping across the tile.  \u201CI need a minute,\u201D she said,
+      picking up her car keys from the counter. \u201CI\u2019ll be back sweetheart,
+      I just need to process this. I \u2014\u201D she hesitated, her habitual \u2018I
+      love you\u2019 on the tip of her tongue. \u201CI\u2019ll be back in a bit,\u201D
+      is what she settled for instead.  She never made it back. She had been driving
+      for hours. It was a foggy night, and she lived in rural Washington. She rounded
+      a bend when a doe slipped out from the heavy woods lining the road with her
+      fawn by her side. They froze in the headlights; Katherine\u2019s mother veered
+      to miss them, running herself into a ditch, rolling the car and crushing its
+      canopy into her skull. In her lap, dripping with blood, was a men\u2019s cowboy
+      hat she\u2019d picked up at a truck stop during her drive.   Katherine never
+      knew what had caused her mother to drive off the road before \u2014 she was
+      standing on the side of the road, watching this memory play out. It was real:
+      the mist sifting through yellow shafts of light cast by the overturned car,
+      deer bleating somewhere in the woods behind her, the doe and calf looking curiously
+      at the carnage in the ditch below. But there was something else, a presence
+      behind her, just out of sight. The humanoid creature with the claw. She tried
+      to turn, but couldn\u2019t. She was frozen, forced to watch the scene of her
+      mother\u2019s death.   \u201CWhy are you showing me this?\u201D she asked,
+      her voice trembling.  \u201CYou needed to see it.\u201D  Katherine buckled
+      to her knees, her body shaking uncontrollably. \u201CWhat the fuck is going
+      on? This can\u2019t be real, can\u2019t be\u2026\u201D The ground beneath her
+      began to swirl, contort, roll like endless waves. She sank into the earth,
+      and again was aware of being deeply, truly alone. Surrounding her this time
+      was infinite darkness. She held herself, shuddering, and words spilled out
+      of her mouth:  \u201CIt was my fault. If I hadn\u2019t told her, she wouldn\u2019t
+      have left, this wouldn\u2019t have happened. It was my fault!\u201D She cried
+      there, alone, for what felt like an eternity. In the space between tears, she
+      began to recollect, recompare: deep down, she\u2019d always wondered if her
+      mother had done it on purpose. Or if God was punishing her, had killed her
+      mother as punishment.   But in the end, it was just chance. One echelon encountering
+      another; the shared motherly instinct ensuring the child always survives. 
+      In the distance, something glimmered. It was the being again, this time presenting
+      as the only light in that endless darkness. It began to move closer. Again,
+      everything in Katherine\u2019s mind screamed that she should be terrified,
+      but all she could feel was space, warmth, and something else now \u2014 something
+      like love.   \u201CWhat are you?\u201D she asked.  \u201CFor every one of you,
+      there is one of us,\u201D the being meted out, moving still closer. \u201CWe
+      have a duty to each of you. We are you, and you are us. And for a long, long
+      time, we have remained silent, and watched. It was kindest to do so.\u201D 
+      Kindest \u2014 yes, that was the spacious warmth Katherine kept feeling. It
+      was overwhelming kindness, crushing tenderness, one in which someone could
+      reside, forgetting themselves forever.  The being was within arm\u2019s length
+      now. Katherine stood, and stared into its face. The silhouette was still that
+      of a humanoid crustacean, but as she stared into what should have been its
+      face, she began to see her own, as though looking into a mirror.  \u201CAre
+      you\u2026me?\u201D  The being inched closer.  \u201CThink of it this way. In
+      the same way you must navigate and clean your living space, we must navigate
+      and cleanse our spiritual space. Time is just another room for us to clean,
+      in the end.\u201D  The being pressed into Katherine, enveloped her, subsumed
+      her, and everything became light and warmth.  #    Katherine blinked. She was
+      lying in the fetal position on the deck of the ferry, cradling her urn. The
+      sun was setting, washing the cloudy horizon in vast shades of violet, rose,
+      pink, and gray. She stared at the rolling ocean, azure streaked with threads
+      of gold. Around her, all the tourists were curled into the fetal position,
+      some shuddering, some crying, most resting peacefully, and all unconscious.
+      Next to Katherine lay Melissa, held in echelon by her mother.  Katherine stood,
+      and returned to the tarnished railing. On the horizon, a fount of spray appeared
+      as she uncapped and tipped the urn, watching her mother\u2019s ashes soften,
+      then disappear into the waves."
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  - songID: 3
+    name: Emma
+    content: "I did it because I liked the way it made me feel.   The transaction
+      pleased me even before the idea became a reality.   The see-saw of our friendship
+      now tipped in my favour- I the one swinging her legs loftily, gripping the
+      handles with sweaty palms. Looking down on her smiling face as she crouched
+      uncomfortably, waiting for her turn to rise.    I did it because 23 years of
+      knowing and loving Emma had taught me that she was regarded as the kinder and
+      uncompromising one, she the one who went the extra mile, she the one to outdo
+      me with birthday surprises, gifts, encouragement. And even when I tried to
+      balance the scales it just somehow didn\u2019t land in the way I wanted. Like
+      the time I got her a pricey bottle of wine I could have sworn she'd mentioned,
+      only to remember weeks later that Malbec wasn\u2019t her favourite. She drank
+      it anyway.   Or the time I got us both tickets for the sky garden and completely
+      forgot she wasn't a huge fan of heights. I took my brother instead.   She had
+      sat with me through long evenings, as I moaned about work, my lovely but predictable
+      husband Alasdair, or our two tweens (her godchildren) and their personal dramas.
+      I occasionally managed to return the favour and assumed the same posture for
+      her as she shared her heartache at yet another broken relationship, another
+      hope deferred, another wasted chapter.   She would come round to mine after
+      work, help me clear the kitchen, chat for a bit with whichever child of mine
+      would reciprocate. Then we would sit, drink, and laugh \u201C always bloody
+      laughing those two\u201D as my Dad used to say of us. But more and more, the
+      laughs turned to tears from Emma. The wretched admission of loneliness, the
+      restless longing for motherhood.   I would find her gazing blankly at our walls
+      studded with family portraits.   Our collective joy recklessly goading her.  
+      I loved her and in between the chaos of my life I longed to be better, do better,
+      for her.   The idea to save Emma would begin as a germ- something I conceived
+      following a radio interview, then after that, a magazine article.   Two grinning
+      faces, a baby in arms. A cameo of sacrificial love. I sent a link to Emma one
+      sunny afternoon- I remember loitering over the send button for a good while.
+      She called back within the hour, her voice swelling with emotion- great sobs
+      flowing through the lines to me. I felt the waves of gratitude, I made jokes
+      about Alasdair's DNA and was she completely sure she wanted it?! I cried with
+      her, made sure she could tell I was crying too, sharing it with her.   Made
+      sure she knew my arms were open and this gift, his gift, was hers for the taking.  
+      And what would be would be. We would take it step by step, approach the altar
+      together, humble ourselves before the gods and wait with baited breath to see
+      if they were pleased with our offering.    Then came the hurdles. Research
+      (I made a file). Speaking with a clinician. Understanding our rights. I even
+      called a lawyer friend.   Alasdair was unsure to begin with but noticeably
+      did not fly off the handle. There was a chink,I could sense it. I started showering
+      him with online testimonials, a book on the basics.    We watched a movie which
+      was strikingly relatable; it made us cry. And he started to get on board. He
+      was always more altruistic than me, and I had to admit that his growing compassion
+      for Emma and his determination to help was actually really attractive to me.  
+      But really the final nail in the coffin was going round for dinner at hers,
+      just the three of us.   She cooked Alasdair\u2019s favourite lamb Tagine, and
+      had really gone to town. Right down to little bowls of pomegranate seeds, flatbread,
+      his favourite lager. Looking back, she had even gone to town on herself, she
+      looked more radiant, more composed- better than I'd seen her for months.  
+      The grief of her singleness had been slowly desiccating her and she\u2019d
+      kind of started looking older (though I never would have said it to her) she
+      had even been favouring more comfortable, dated clothes that hung off her.
+      Shroud like. But that night was different- she had clearly gone out to get
+      new clothes, had her hair and nails done. She looked good , but more than that,
+      her face carried something beautiful and bright and it was hard to not keep
+      staring at her.   We ate, ate more again, crept the conversation around the
+      elephant in the room, and got through more drink than was good for us. Dessert
+      came and went (again, Al\u2019s favourite). By the time the coffee came out,
+      which none of us really needed, we were cackling with laughter about some stupid
+      anecdote- one of Alasdair's colleagues was close to getting fired for his absolute
+      lack of social skills. The evening itself closed in around us and we were left
+      with the inevitable.   I had chosen to sit next to Emma so she wouldn't feel
+      spare, out of habit, but it afforded me the chance to watch Al as she started
+      breaking down, her words rushing out along with the years of longing.   As
+      she spoke I couldn't help but be moved, and was prompted often to rub her back,
+      her hand, her tears provoking my own. It was a familiar scene, one hunched
+      in sorrow unbothered now by appearances and the other in a position of quiet
+      giving, of comfort and empathy and tissues and tea. So it was interesting to
+      me to finally observe Alasdair's reactions. He was clearly moved and his eyes
+      never left her lovely face. The only times he locked eyes with me I could feel
+      him saying \u201Cnow I understand\u201D.  By the time it was midnight, we had
+      all three of us come to a decision.   Emma waved us off at the door after long
+      goodbyes, eyes still wet, her whole person shimmering with hope and maybe a
+      touch of fear.   Alasdair and I walked home, and through the talk between us
+      I could feel his brimming sense of achievement, his sense of wonder. He had
+      deposited so much faith with his words alone, with a single promise. He was
+      at times,I could see in the lamp light, actually smiling. I knew as only a
+      wife could know, that he was charged- illuminated- by the power of his gift.
+      And more than that, that he'd been touched by her brokenness, had noticed her
+      new beauty.   For myself, I was quiet mostly. Taking it all in. I felt justifiably
+      full in so many ways! I was experiencing that gorgeous elevation- my idea,
+      my faith, my sacrificial gift. I hoped Al might notice my own illumination.  
+      And so it began.  The initial donation was almost as easy as the promise. A
+      clinic visit, more paperwork. A small tube passed from hand to locker to hand.
+      A small tube with the world inside it, though to a passerby just off-white
+      gloop.   I was with Em when his message pinged her.   \u201C Job done! You're
+      going to be an AMAZING mum x\u201D  She hadn't cried or anything but we had
+      celebrated lunch out. The message kept pinging in my own mind through lunch
+      and that afternoon. He never used Capslock in messages! He must have sweated
+      over what to say. The kiss at the end. That tiny black cross pinched my nerves
+      somewhat.  35 letters, one kiss, a train departed.   I was standing on a platform
+      at the station when I had the first vision, as I came to call them.    A scene
+      of loveliness- Emma crouching, a full skirt billowed at her ankles, an expression
+      of broad contentment on her face. Her eyes locked in love and wonder at the
+      toddler staggering towards her open arms. And behind them both, a sanguine
+      figure, one hand on hip, his own face mirroring hers- a perfect image of lost
+      and found.   I could feel those vibrations coming long before news came to
+      us (and of course we were the first to know).  I had hoped the news would break
+      these mirages that stopped me in my tracks, but in reality, they didn't. The
+      day we heard was the day the match struck the box- the tiny flame eager to
+      swallow something whole.   We had gone round with flowers- the best kind, the
+      massive, overwhelming kind. Even the girls came and there were tears then too.
+      I did well, in retrospect- I still felt good mostly and wanted to feel her
+      gratitude flow over me again. And it was there- but I noticed it flowed mainly
+      to Alasdair. In small touching gestures, and a shared joke about the child
+      growing up to be an accountant like him.   I saw her less from then on. Life
+      was.. Well, life. And she now had so much to do, rest and wellbeing her main
+      priorities. We messaged, she called once, twice maybe but I was too knackered
+      to talk.   Emma on instagram, holding a lightbox sign she\u2019d borrowed from
+      my daughter   \u201Cmama to be! Due date 08/10/22\u201D   God, the comments
+      from people though. I couldn't take it! Some close to her knew her secret-
+      most didn't. We'd all decided on that. Something about the growing ladder of
+      over the top messages and united happiness caught me by surprise. I was so
+      maddened by it that I felt a migraine coming on and went to bed.   Emma on
+      facebook, pretty fingers clutching the black and white rectangles of victory.  
+      The hardly discernible images- figures suspended in space, a sloped forehead,
+      a raised knee.  A small sucked thumb.   And she was thankful, so very thankful.
+      She wrote Al a letter telling him how thankful.   I had to make him share it
+      with me. I went into his office at home one day and found the letter, back
+      in its envelope, carefully propped on a shelf. And he wasn't one for keeping
+      detritus.   I worked hard from then on, even rehearsing conversations- interactions
+      I knew were coming up with not only Emma but everyone else. The baby shower,
+      or organising a small rota for food drop offs once the baby made an appearance.
+      Making sure I kept the baby scan photo on the fridge.   I noticed now, the
+      lingering gazes that came from those who knew. Their own faces and questions
+      betraying \u2018concerns\u2019 over how I was really (really) finding it all.
+      I felt like a pioneer, the first of all our circle, riding out alone into unknown
+      territory. And I always felt I should be reporting back more somehow. Communicating
+      to them the shock of the new found terrain. Confess to them the discovery that
+      something horrid had shifted and shat all over the sparkling vista I had been
+      dreaming of reaching. But I was good at funny. So I stuck to that and for a
+      while I think it worked.   One morning we woke up to such heavy rain I asked
+      Al for a lift to work, but he hesitated and said he couldn't today. Naturally
+      I sniffed a fib and needled him until he snapped back that Emma had asked for
+      a lift to an appointment. I shocked myself with the heat of my reply and registered
+      the alarm on Al's face. I still don't quite remember what bitter words passed
+      between us then but I had opened the latch inside me and I can't deny it didn't
+      feel good. He even swore at me before leaving which was unthinkable- I was
+      glad the girls were still asleep. Me, standing in the hallway in my dressing
+      gown, the force of the slammed door still in my bones.   \u201CRemember! this
+      was your idea in the first place!\u201D his exit lines, shunting through my
+      veins.   When I came home again much later, I scrolled through photos of my
+      girls as my dinner spun in the microwave. I watched the years roll back, the
+      endless moments. My two creations, getting smaller, smaller, smallest.   Another
+      vision, one day while brushing something off my daughters neck. Catching her
+      green, lovely eyes. A child looked back at me, eyes alike. A child asking questions.
+      It shuddered through me leaving an oil slick of dread in its wake.   Autumn
+      came with a sigh, forcing its way into everything. Damp mornings, mouldy leaves
+      in the hallway, stuck to shoes.   Autumn came and so did the contractions.  
+      Emma messaged me, saying she was excited but scared. The kind of message most
+      mothers send when their entire universe is about to push its way through their
+      helpless, marvellous body. She had her own mother staying with her now. I got
+      the message when I was doing the weekly shop and I stopped a moment to stare
+      at the screen. I put the phone back in my bag, finished my shop. Then I sat
+      in the car and just bawled like an actual baby. I cried so hard I got a cramp
+      in my stomach which forced me to do some deep breathing. I thought of Emma,
+      I thought of my own babies. The pain passed.   I had seen her actually, a couple
+      of months before. I generously offered help when she told me she still needed
+      some bits.   She had slowly lowered herself into the car saying \u201C thanks
+      so much for this, I'm definitely getting that nesting urge now!\u201D  \u201CYou
+      mean nesting fever,\u201D I replied.  \u201C Oh! Right! Yeah that !.... I\u2019ve
+      actually been thinking I might look at some of those co-sleeping pod crib thingies-
+      do you know the ones?\u201D  \u201C co- sleeping?! God no- you don't want to
+      do that, unless you want a dead baby!\u201D  It had just come out- I'd said
+      it with an accent so there's a chance she thought I was trying to be funny
+      but it hung in the air like a stink. I don't know what was said after that.
+      I was really shaken up with how I didn't care much if I hurt her. I felt a
+      strange sense of liveliness, a chill tonic in me.  I don't know how but we
+      both managed to shop for and find a crib. She went for something old fashioned
+      in the end, said it reminded her of her granny or something like that.   I
+      was at the till with her when I found myself staring at the back of her head,
+      her hair scraped into a dirty bun. Noticed the old eczema patches had returned
+      back at her nape. Stress I said to myself.   She was scrabbling in her bag
+      for the right card, softly cursing. And then suddenly out of nowhere I just
+      felt this tsunami wave of longing for her- for things to not have changed..for
+      our younger uncomplicated selves. \u201CAlways bloody laughing these two\u201D. 
+      I leant over, explained to the cashier I would be paying (despite her protests),
+      and tapped my card with a dramatic flourish. A flourish to  make the point
+      that I wanted to. To demonstrate something that only two best friends could
+      translate - I messed up, I'm here for you now.   I\u2019ll get this.   We drive
+      past a playground on the way home, I find myself telling her she\u2019s doing
+      so, so well.   I think she hears my apology. I put on the radio and we both
+      start humming along.   As I glance towards the park I notice two children on
+      a see saw, one lifted high with legs akimbo, squealing with delight.   And
+      the other crouched with knees bent low, feet in the sand, ready to launch. "
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  - songID: 4
+    name: Do Flamethrowers Belong In The Library?
+    content: "We lose people all the time. It\u2019s just the nature of the job.
+      What can you expect from a place full of nooks and crannies people intentionally
+      go to get lost in?  I usually don\u2019t worry when I don\u2019t see someone
+      for a while, but when it\u2019s been days since someone\u2019s checked out,
+      it\u2019s usually a sign that I need to step in.  I\u2019m not doing this alone,
+      thankfully. No Librarian is ever truly alone, are they?  I have help from the
+      Watchers and Listeners of the shelves. Thanks to them, it usually doesn\u2019t
+      take long to get the scent, if you know what I mean. However, today is one
+      of the rare, and unfortunate, exceptions when my search has exceeded more than
+      an hour\u2014and an hour is pushing it.  I\u2019ve been searching and asking
+      around for almost six hours, scouring shelves and listening for the telltale
+      breathing.  The Watchers have their quadrants, so it\u2019s much like playing
+      hot and cold.  \u201CBad news.\u201D One says, and my brain shivers in my skull,
+      both from its existence and its statement.   \u201CThey crossed the tape.\u201D
+      Says the Watcher, and I groan. \u201CAre you sure?\u201D My stomach still drops
+      at the thought, even though I\u2019ve been doing this a very long time (long
+      enough that I remember every book on every shelf better than my own child\u2019s
+      face), but knowing a poor soul lost themselves beyond the tape\u2026 I grieve
+      for them.    The Watcher doesn\u2019t speak, but generates an affirmative sensation.
+      That means I have to backtrack to my desk for supplies. I thank them, asking
+      that they send word ahead of my arrival.  It\u2019s been a while since I\u2019ve
+      had to go past the tape, which means it\u2019s been a while since I entered
+      the broom closet. The helmet is dusty (it looks almost like it\u2019s from
+      one of those old-fashioned scuba diving suits. It\u2019s not nearly so heavy,
+      though.)  There\u2019s a bright lamp affixed to the front just above the visor,
+      but it\u2019s as much of a hindrance as a help. While, most of the time, those
+      beyond the tape know not to bother me, some still get bored enough to try\u2014and
+      the lamp acts like a beacon. I don\u2019t blame them, it\u2019s what prisoners
+      do. Find the weakest among them and test their mettle.  I\u2019ve got a sack
+      full of non-perishables, tinctures, aspirin, and a compass (not like the kind
+      you\u2019re used to, but would take too long to explain\u2014and time is of
+      the essence, so I\u2019ll let your imagination handle it from here.)   I sling
+      the sack across my body, and fasten my waist with a utility belt that would
+      make a trust fund bat character with abandonment issues jealous. It\u2019s
+      got floss, lighters, matches, and a few more tools that don\u2019t exist outside
+      of The Library.   The last thing I grab is the flamethrower.  This is where
+      I should be very transparent with you. I\u2019m not actually the Librarian.
+      I\u2019m the Librarian\u2019s Assistant. I know, isn\u2019t that just your
+      luck, right?  Not to worry, I\u2019m very good at using this thing, and it
+      does the job nicely\u2014whatever job I may deem necessary at any particular
+      moment. But the Head Librarian doesn\u2019t really need much of anything to
+      ward off what lingers here.  I don\u2019t know exactly where he is at the moment,
+      nor do I want to know. If this were a real pickle I would summon him, but while
+      a rare occasion, it\u2019s not unusual in the scope of a thousand years. After
+      all, no one comes here without the intention (whether it\u2019s conscious or
+      subconscious) to get lost. It\u2019s the nature of this place.  But you know
+      that, don\u2019t you?   It\u2019s why you\u2019re here, after all.  It doesn\u2019t
+      take me long to find the tape, which is fortuitous. Sometimes it moves around,
+      but the Watchers and Listeners kept a beat on it this time so as to direct
+      me.  Yes, it is really dark.  Yes, it\u2019s literal tape. Hazard tape, but
+      that\u2019s almost like a beacon to the adventurous, isn\u2019t it? I think
+      The Library knows that. It\u2019s greedy, but it\u2019s also quite discerning
+      in taste.  In some circles that means that I should extend congratulations
+      to you\u2026 in others, I offer my sincerest sympathy.  I hear my name and
+      ignore it as I crawl through the crisscross of reflective strips.  The tape
+      moves not at random, by the way. It genuinely serves as a warning.  Whether
+      it\u2019s gatekeeping sections currently under construction, in repair, or
+      missing. I try not to, but I think that last one has something to do with where
+      the Head Librarian went.  Don\u2019t worry about it, my name is not important.  
+      So ineffectual that I\u2019ve forgotten.  I hear my name again as I begrudgingly
+      turn on the lamp. Not a lot of help, just enough light to ensure I don\u2019t
+      trip over anything, or disturb the shelves.   Many sleep here.  I send off
+      a warning shot from the flamethrower. Showing I carry more light than just
+      atop my appetizing head. The flash of flames sends things\u2026 slithering.
+      But most of those this close to the tape have never been very convicted by
+      nature, so I\u2019m not concerned.   There are more Listeners and less Watchers
+      past the tape, for obvious reasons. Thankfully, they say I don\u2019t have
+      to go too far. I look down at the telling clicking sound to see rocks rolling.
+      Some as big as my foot, and some as small as the tip of my thumb. The smaller
+      ones move more easily, but all are rolling as if pulled toward a central point.
+      I don\u2019t even need the compass, but I glance down at it one more time before
+      stuffing it back into the sack.  While I don\u2019t have to go too far, things
+      are\u2026 relative here. Ten steps may be ten thousand. And so even after only
+      a few moments of exploring, I feel acute pressure jamming into my temples.
+      My heart feels like it\u2019s being squeezed, and my vision blurs. My fingers
+      tingle by the time I\u2019m able to shake the aspirin into my mouth.  I chew
+      it, ignoring the sound of my name\u2014my true name. The one only I can hear.
+      You\u2019ll hear your own as well, if you stay here long enough.  My vision
+      clears, which just means the dark looks sharper, and I sweep another warning
+      arc from the flame thrower for good measure.   I do this as much because I
+      love the sound as for protection. I also appreciate the warmth. It gets cold
+      here. But in a strange way, which shouldn\u2019t surprise you at this point.  
+      It\u2019s cold like how the first signs of spring show in the early morning
+      dew that\u2019s only just melted. I can smell and taste the sweat on my upper
+      lip. And it\u2019s cold.  And then I hear it.   A few or a thousand steps later.  
+      The breathing sound I\u2019ve been listening for.  The pace of the rocks quickens,
+      and my head is turned down so the helmet light prevents me from tripping over\u2014or
+      impeding\u2014their journey.  A famous author once said \u201CAll things serve
+      the beam\u201D, and that\u2019s as true in this world as it is in the others.
+      Except this beam\u2014this beacon\u2014is attached to our lost visitor.  I
+      can only hear the rocks, mumblings, and the breathing sound now. The smell
+      is so musty and thick. Like the air is full of sweat and dust. Like I\u2019ve
+      stuck my head out the window during a heavily falling rain. If I think hard
+      enough about it, soon I\u2019ll be drenched.   So, I don\u2019t.  While the
+      rocks are almost the perfect tell, and the Listeners\u2019 too corroborates
+      the evidence, you can never be too sure. Only light can be sure.  I take a
+      match from the tiny box, snap it to life, and then blow it out. Tiny smoke
+      tendrils curl and waft until they also follow the same flow as the rocks. 
+      Excellent, we\u2019ve not been led astray.  A few or a thousand more steps,
+      and the rocks are gathering down an aisle where the breathing is more like
+      wheezing\u2014like the desperate struggle to take in.  Lo and behold, we found
+      them!  Poor thing, judging by the state of her, she got lost early. She\u2019s
+      likely been here for most of the day. The book covers her face\u2014consuming
+      her head like a kid on a particularly large popsicle. The pages flutter gently
+      against her too-white jaw.   The papery quality of her skin, and the wanting
+      muscle mass, show how little time was on our side\u2014not a moment to waste. 
+      I grab the book by the edges of both back and front covers, it\u2019s got most
+      of her head inside at this point, just her earlobes, hair, and edge of her
+      jaw peak out from beneath the pages I now grip firmly. The wheezing turns into
+      a moan that turns into a sob.  \u201CNow, now.\u201D I say, and test the hold
+      the book has on its victim. It\u2019s snug, too snug to yank like a leech.
+      I need to treat it like a tick, making sure to get the head out.  None of these
+      are intended as puns, but it just happens after being surrounded by books and
+      pros for so long.  I draw one of the tiny viles strapped in my utility belt
+      and pull the cork out. It smells like nothing to me, but I see the reaction
+      immediately. Our half-consumed explorer moves a bit, her fingers mostly, and
+      I hear a second, tinier moan beneath that of the book\u2019s. I pour a small
+      amount of the substance into the palm of my hand, and I smooth it gently down
+      the spine of the book. It wails again, and so does the girl, both full of sorrow
+      and reluctance.   I feel the hairs on the back of my neck stand up, so I turn
+      at the hip, cock the flamethrower, and send off a very intentionally long tail
+      of flames. When the feeling subsides, I shrug the weapon back over my shoulder. 
+      I use the backs of two knuckles to knock gently on the book cover, \u201CIt\u2019s
+      time to come back now. My apologies.\u201D I say, and I mean it. The book and
+      the girl moan again, more hollowly, and I can feel the seal\u2014the bond\u2014splitting
+      like a seam. I grip the book again, because these two are stubborn, and have
+      to pry them apart. The color and mass return beneath her skin, and though her
+      eyes are open, they can\u2019t see anything. She\u2019ll be like that for a
+      while, it\u2019s normal. She\u2019ll recover.  I pour the remaining contents
+      of the bottle down the part of her frazzled blond hair. Tears fill the empty
+      eyes and drip down her face. Her mouth presses into a thin white line and grimaces
+      so intensely that the flesh folds in multiple layers at the corners of her
+      mouth. Great pain.  Even after a thousand years I still can\u2019t help but
+      feel sorry, so I pull her burning head under my chin, and rub circles into
+      her back.   \u201CI\u2019m sorry, dear. I know you\u2019ve been told otherwise,
+      but this place is a prison, and that isn\u2019t your story. Yours is still
+      being written, and the one which made you pretty promises is lying and jealous.  
+      \u201COne day you, if the world is cruel, may yet have a place here. But it\u2019s
+      not today. So let\u2019s go have a cup of tea.\u201D I tell her, as I\u2019ve
+      told many like her. I\u2019ve gotten better at it over the years. I used to
+      have to fight with them. Often I\u2019d give up and just keep them safe until
+      the Head Librarian got back to talk them down.   She finally lets out a weak,
+      wheezing breath. I take advantage of the broken seam of her lips and pour a
+      tincture down her throat. I don\u2019t even have to look anymore, I can just
+      feel the specific melodies that make each tincture different. It helps that
+      the one I need usually sings a bit louder as a courtesy, and it\u2019ll purr
+      like a cat when I\u2019ve touched my fingers to it.  She chokes a bit, but
+      her eyes start to clear.  Good enough for now.   The back of my neck has another
+      sudden influx of goosebumps. We\u2019ve overstayed our welcome. It\u2019s time
+      to go.   I put the book back on the shelf. I don\u2019t scold it, just allow
+      its ache and frustration flow through me. I apologize, but there\u2019s no
+      comfort I can give. My words and compassion are meaningless. I\u2019ve noted
+      the volume and will tell the Head Librarian, they might be able to soothe it
+      back to sleep.  I tap the metal bauble around my neck, and we\u2019re back
+      at my desk.  I drape the girl onto a nearby loveseat that\u2019s seen better
+      days, starting the kettle before heading to the broom closet to stash the emergency
+      kit.  She\u2019ll be fine. People like her (and you) always are.  This place
+      was made to help the wanderers and recklessly imaginative. Those who can\u2019t
+      wrap their heads around the world the way it is, and can see the truth of magic
+      between heartbeats and heartbreaks.   And people like me, and the Head Librarian
+      (when they so choose to grace us with their presence), keep the place orderly
+      and open for you\u2026 and we\u2019re here to help guide you back on track
+      if you lose inspiration for your own story.  It\u2019s the nature of the job\u2014The
+      Library itself.   What else can you expect from a place full of nooks and crannies
+      that people choose to get lost in?"
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  - songID: 5
+    name: Sight Unseen
+    content: "Sight Unseen  Abraham Morgenstern reverently offered Sidra the Radio
+      Shack catalog, as if it was his most prized possession.  \u201CThis is the
+      new one,\u201D he said. \u201CShall we begin with the CB radios and then move
+      on to the antennas? And please, call me Abe.\u201D  Sidra rolled her eyes,
+      which fortunately Mr. Morgenstern \u2013 Abe \u2013 could not see, and started
+      reading. She was barely through the first line, \u201CRealistic TRC-410. Compact,
+      but with all the necessary features. Hysteresis-type squelch\u2026,\u201D when
+      noise from the street below drowned her out. Looking out the window, Sidra
+      saw people at the bus stop cheering as a woman wearing a feather boa screamed
+      \u201Cno money, no honey\u201D over and over to some guy honking his puke yellow
+      Mustang.  Abe seemed oblivious to the noise. And the heat, thought Sidra, as
+      she wiped her face with the hem of her t-shirt. It had been particularly gross
+      climbing the stairs to his room today. It was unusually hot for San Francisco
+      and, with a dead rat in the stairwell and urine-soaked carpet in the hall,
+      the Hotel Leo was even more disgusting than usual. Despite its supposed elegance
+      in the early 1900s, it was now the Tenderloin\u2019s most rundown flophouse.
+      A fan in Abe\u2019s room would help, but he\u2019d told her fans interfered
+      with radio waves. Go figure.  \u201CPlease continue Sidra, perhaps with more
+      zest?\u201D  She made a face. Zest? She didn\u2019t do zest. But if that\u2019s
+      what the old man wanted: \u201CBig LED channel readout! An LED S/RF meter!
+      Auto-modulation circuit! Ceramic filters!\u201D  Abe clapped his hands with
+      pleasure. \u201CMagnificent!\u201D  * * *  The police had arrested Sidra a
+      few months earlier for shoplifting a necklace. She\u2019d had enough money
+      to buy it, but stupidly wanted to see if she still had skills. It was her first
+      offense as an adult, so the judge sentenced her to community service and a
+      social services agency assigned her to read each week to blind Abe. As community
+      service gigs go, it had sounded great. Way better than picking up trash, right?
+      Not exactly.  On their first Saturday together, she thought Abe wanted to order
+      something when he handed her a Radio Shack catalog. Instead, he politely asked
+      her to read every single word in its 176 pages. For three solid hours she dutifully
+      read each digit, acronym, and megahertz, but she only got up to page 99, coaxial
+      connectors \u2013 whatever those were. She finished that catalog last week,
+      and Sidra hoped that today she\u2019d get to read a book or newspaper to him.
+      But nope, he had handed her the new Summer 1981 Radio Shack catalog.  Sidra
+      found Abe pleasant enough, but a bit puzzling. He only talked about radio stuff
+      and there was nothing interesting in his room \u2013 two chairs, a bed, a dresser
+      with a bunch of radios and antennas on top, and a hot plate. No photos of relatives
+      or anything else with clues to his background. Sidra didn\u2019t like people
+      she couldn\u2019t get a quick read on. Her superpower was staying one step
+      ahead of everyone.  She glanced at Abe. His face lit up when she read certain
+      descriptions in the catalog. It was peculiar, but she didn\u2019t care enough
+      to ask why. Still, no harm in humoring him.  \u201CThe priority switch gives
+      INSTANT, DIRECT access to either Channel 9 or Channel 19!\u201D She added a
+      \u201CWOW!\u201D for good measure.  Abe glowed.  \u201CA priority switch? Oh
+      my, that is spectacular!\u201D  Sidra couldn\u2019t help herself \u2013 she
+      giggled. What a thing, she thought, to be part of this man\u2019s absolute,
+      inexplicable joy.  *  *  *  A few weeks later, after reading about the six-band
+      Realist DX-60 for the third time, curiosity got the best of her.  \u201CAbe,
+      what exactly is a shortwave radio?\u201D  \u201CIt is simply a radio frequency,
+      like AM and FM. Shortwave can travel farther though, which means I can listen
+      to broadcasts from all over the world.\u201D  He continued, excited by her
+      interest. \u201CRadio waves are a type of electromagnetic radiation, projected
+      in different directions by antennas. Those in the shortwave band are reflected
+      from the ionosphere \u2013 a layer of electrically charged atoms in the atmosphere.
+      By tuning my receivers to specific frequencies, I can collect certain signals.
+      It is quite something!\u201D  It was the most Abe had spoken to Sidra since
+      she\u2019d started reading to him. Unfortunately, she didn\u2019t understand
+      what he was saying.  \u201CThe radio waves are reflected from outer space?\u201D 
+      \u201CYes, that is it!\u201D Abe said. \u201CAlthough there are other ways
+      to receive electromagnetic waves too.\u201D  \u201CSuch as?\u201D  \u201CThrough
+      your teeth. Just like Lucille Ball. One time she was on TV and announced that
+      during World War II she had picked up radio broadcasts through her fillings.\u201D 
+      Abe leaned forward and whispered conspiratorially, \u201CYou should know that
+      I, too, have communicated with other beings through my fillings.\u201D  Good
+      lord, Sidra thought. That\u2019s what I get for asking questions. She did not
+      want to know if he talked to little green men with his teeth. Time to wrap
+      things up.  \u201CHow about if we finish this page and that\u2019ll be it for
+      today?\u201D      \u201CActually, I was hoping when we finished that you would
+      join me for lunch,\u201D Abe said. \u201CIf you have time.\u201D  Sidra was
+      taken aback by the invitation. But she was hungry.  \u201CSure, um, I guess
+      so,\u201D she said, hoping there\u2019d be no more mention of outer space.
+      \u201CThanks.\u201D  \u201CExcellent! If you could get my cane from under the
+      bed, I\u2019ll excuse myself and then we will go. \u201D      Abe amused Sidra
+      with his more formal manner of speaking \u2013 \u201Cexcusing himself\u201D
+      meant using the restroom down the hall. She reached under the bed for his long
+      white cane and saw a shoebox. Curious, she pulled it out. There were hundreds
+      of tiny pieces of paper inside. Fortunes \u2013 from fortune cookies. What
+      an odd thing to save. Underneath all the paper was a thick envelope and a rectangular
+      case covered in dark blue velvet. Hearing Abe\u2019s footsteps, she hastily
+      grabbed the envelope and one of the fortunes, slid the shoebox back under the
+      bed, and picked up his cane.  Abe opened the door and tilted his head.  \u201CSomething
+      is askew.\u201D  \u201CI closed your window,\u201D she said.  \u201CThank you,\u201D
+      said Abe. But he looked pensive.  *  *  *  Abe held Sidra\u2019s elbow while
+      navigating their way out of the Hotel Leo, tip-tapping back and forth with
+      his cane. She was amazed how many people greeted him, and how he recognized
+      everyone\u2019s voices \u2013 \u201CArnie, good afternoon to you,\u201D to
+      the hotel manager sitting in his usual haze of cigarette smoke. \u201CLovely
+      song Marcus,\u201D to the annoying man with the boombox on the front steps.
+      \u201CJade, how are you feeling this week?\u201D to the woman running the newsstand. 
+      At the corner, they turned left and came to Happy Delight, a small Chinese
+      restaurant she\u2019d never noticed. The place was shabby, with chipped Formica
+      tables and torn leather booths, but it smelled wonderful. An elderly woman
+      hurried over as soon as they walked in, bowed, and patted Abe\u2019s arm affectionately. 
+      \u201CHello Mr. Morgenstern. You brought a friend!\u201D  \u201CGood day, Mrs.
+      Huang. Yes, this is Sidra. I want her to try your remarkable lo mein.\u201D 
+      By the time they sat down, Mrs. Huang was already back with two heaping bowls
+      of chicken lo mein. Rejecting the chopsticks, which she had no idea how to
+      use, Sidra took a generous forkful of noodles. She wasn\u2019t big on Chinese
+      food, but she\u2019d try to get it down.  \u201COh my god! Abe, this is delicious!\u201D
+      she exclaimed. Seriously, it was incredible.      \u201CThat it is. I come
+      to Happy Delight every Saturday for Mrs. Huang\u2019s lo mein,\u201D Abe said.
+      \u201CChew slowly, so you can taste all the flavors and textures. Paying close
+      attention changes everything.\u201D      \u201CSure thing Yoda,\u201D Sidra
+      said.      \u201CYodel?\u201D      \u201CYoda. Y-o-d-a. You know, from Star
+      Wars? The Empire Strikes Back? Yoda\u2019s a wrinkly little wise teacher.\u201D      
+      \u201CIt is similar to the Hebrew word \u2018Yodea\u2019 \u2013 one who knows.
+      But Sidra, you do not need a Yoda. Everything you need to know is already inside
+      you.\u201D  \u201CAnd that\u2019s why you sound like Yoda!\u201D she said. 
+      When they finished their meal, Mrs. Huang brought two fortune cookies to the
+      table. Abe asked to Sidra read hers aloud. She did so, while shaking her head
+      at the irony: \u201CTo believe in the unseen is both a triumph and a blessing.\u201D 
+      *  *  *  That evening, back in her apartment, Sidra taped her Happy Delight
+      fortune in a notebook and began to write about how ridiculous it was to believe
+      in things you couldn\u2019t see. Then she remembered the fortune from Abe\u2019s
+      shoebox \u2013 he would never miss it \u2013 and pulled it out of her pocket:
+      \u201CBe kind always. You never know what someone is going through.\u201D She
+      taped it to another page and wrote \u201Ckindness is overrated.\u201D  She
+      hoped the contents of Abe\u2019s envelope would be more interesting, but it
+      was just a bunch of faded newspaper articles about the Holocaust and some hospital.
+      She skimmed the clippings. Depressing, but not anything about Abe. Then two
+      headlines caught her eye: \u201CHolocaust Survivors Have Own Wing at Insane
+      Asylum\u201D and \u201CJews Attacked at Mental Hospital: 4 Die, 11 Hurt, 3
+      Blinded.\u201D The last article said all \u201Cthe lunatics\u201D were \u201Cresettled\u201D
+      in San Francisco.  Was Abe a Holocaust survivor? Had he been in that mental
+      health place? Sidra wished she hadn\u2019t poked around in his belongings.
+      His life wasn\u2019t her business. She needed to do her community service stint
+      and be done with him. The articles didn\u2019t change anything. Or maybe they
+      changed everything.  *   *   *  Happy Delight became part of their Saturday
+      schedule and eventually Sidra asked Abe why he liked Radio Shack catalogs so
+      much. Without hesitation, he said the numbers were soothing, like a mantra
+      \u2013 though admittedly an unconventional one. He also said the radios were
+      more than electronics. They were connections.  He told her stories about the
+      things he learned and people he met through his radios. On his CB, he talked
+      every day to truckers all over the U.S. and Canada. His favorite driver called
+      himself Charlie Tuna. He\u2019d been driving a big rig since he got out of
+      San Quentin and gave Abe weekly updates on his travels. Using the shortwave
+      radio, Abe heard broadcasts from all over the world, telling Sidra about labor
+      strikes in Paris and Queen Elizabeth\u2019s birthday parade. She learned \u201Cham
+      radio\u201D was slang for Amateur Radio, and not something involving pork,
+      and that he used it to talk to people in Morocco and Brazil. Abe\u2019s stories
+      reminded her of Arabian Nights, where Scheherazade told the king a different
+      story every night to stay alive. She\u2019d read that book over and over in
+      middle school, trying to escape the miserable reality of Foster Family #3.
+      Like Scheherazade, the stories had kept her alive.  Each Saturday night, Sidra
+      taped a new fortune in her notebook. The day her fortune said, \u201CYour dreams
+      are only your dreams until you write them down \u2013 then they\u2019re goals,\u201D
+      she started writing about what each fortune made her think about. There was
+      always some truth, some nugget of wisdom to extract. After getting \u201CThe
+      world is a book, and those who do not travel read only a page,\u201D she wrote
+      about all the places she wanted to go. When her fortune said, \u201CAn investment
+      in knowledge pays the best interest,\u201D she wrote a long list of things
+      she wanted to learn about and sent away for college catalogs. \u201CDon\u2019t
+      wait for anyone else to light your fire: you have your own matches,\u201D was
+      the incentive she needed to ask for a raise at her waitressing job.  Sidra
+      found herself smiling more. And talking to people she had previously ignored.
+      It certainly improved her tips! But it wasn\u2019t about the money. It was
+      for the stories. They gave her an unexpected, totally unfamiliar, sense of
+      something. She didn\u2019t have a good word for it. It just felt good. Like
+      last week, when she\u2019d sat down with James, who was always in the hotel
+      lobby with his mangy cat. It was like she\u2019d handed him a hundred bucks
+      instead of merely saying hello. He enthusiastically invited her to pet the
+      cat \u2013 introduced as Bubbles \u2013 and, while scratching its ears (and
+      praying it didn\u2019t have fleas), he told her wild tales about when he worked
+      on a fishing boat in Alaska.  She was enjoying Saturdays with Abe. Last week,
+      as they ate at Happy Delight, Sidra had asked him why he had so many kinds
+      of antennas.     \u201COh yes,\u201D said Abe, \u201CI have been meaning to
+      tell you about them. The antennas connect me beyond our earth and our solar
+      system, to other galaxies. With the right antenna, I can communicate with extraterrestrial
+      beings.\u201D      Sidra sighed \u2013 louder than she had intended.  \u201CYou
+      are skeptical Sidra,\u201D Abe said. \u201CBut I assure you, we\u2019re not
+      alone. We are not alone in the universe. We share it with many other life forms.\u201D
+      He paused. \u201CYou think believing that makes me weird, don\u2019t you?\u201D     
+      \u201CI didn\u2019t say that.\u201D  \u201CAh, but I can hear your face,\u201D
+      he said. Then he chuckled. \u201CThat is fine. As I recall it was Dr. Seuss
+      who said we are all a bit weird.\u201D  As she finished her lo mein, Sidra
+      pondered all that she was learning \u2013 from fortune cookies, Dr. Suess,
+      a trucker named Charlie Tuna, and a blind man who believed in space aliens.
+      She broke open her cookie and had to laugh: \u201CDo not be afraid to learn
+      from everything and everyone.\u201D Of course.  *  *  *  Today Abe seemed agitated.
+      He kept interrupting Sidra, asking her to start over.  \u201CWhat\u2019s up
+      with you?\u201D she finally asked, putting the Radio Shack catalog down.  \u201CI
+      am worried,\u201D he said. \u201CThe solar eclipse is next week, and Jesse
+      went to visit his daughter in Sacramento.\u201D  \u201CWho\u2019s Jesse?\u201D 
+      \u201CHe lives down the hall. Without Jesse I do not know what to do,\u201D
+      Abe said. \u201CHe takes me to the park for each eclipse. We put on our hats
+      and then, when the sun and the moon collide, Jesse\u2019s eyes become mine.\u201D 
+      Well, that sounded bizarre, even for Abe. He put his head in his hands, looking
+      miserable.  \u201CWhat day is the eclipse?\u201D Sidra asked.  \u201CFriday.\u201D 
+      \u201CI have the day off from the restaurant, so I can walk you to the park
+      if you want.\u201D  \u201CYou would have to wear the hat.\u201D  \u201CSure
+      Abe, I can wear a hat.\u201D  * *  *  On Friday, Abe met Sidra in the lobby
+      with a lumpy helmet on his head made from aluminum foil. He held out a second,
+      identical one to her.  \u201CHere you go. I made it yesterday and hope it fits.\u201D 
+      \u201CAbe\u2026\u201D  \u201CIt is your hat. You said you would wear the hat.\u201D 
+      No way she was putting this pile of tinfoil on her head! But she took it. He\u2019d
+      never know if she just carried it.  \u201CFits great,\u201D Sidra said.  Arnie
+      banged on the bullet-proof glass and yelled. \u201CAbe, she doesn\u2019t have
+      it on!\u201D Then he grinned and gave her two thumbs up.    \u201CSidra, we
+      cannot go if you do not wear your hat.\u201D  Well, it was, after all, San
+      Francisco. Maybe no one would notice? She put it on.  As they walked, Abe continued
+      talking about the helmet. \u201CThe radio waves during an eclipse are intense.
+      It is most important to protect your brain\u2026\u201D Then, as if reciting
+      scientific fact, added \u201Cotherwise the sun and moon will not have full
+      access when our eyes switch. This time I hope to see beyond the stars.\u201D 
+      Sidra stopped. \u201CWait, did you say our eyes switch?\u201D  \u201CIt is
+      the whole point of the eclipse Sidra. We each put on the glasses and during
+      the eclipse, there is a cross-oculisation. I will have your eyes and you will
+      have mine.\u201D  \u201CMeaning I\u2019ll be blind?\u201D  \u201COnly for the
+      length of the eclipse.\u201D  Okay Abe, she\u2019d play along.  \u201CAnd my
+      eyesight will come back?\u201D  \u201CIt will. Jesse\u2019s always does,\u201D
+      said Abe. \u201CBut you might see things differently than before.\u201D  * 
+      *  *  Dozens of people with cameras and solar eclipse glasses were in the park
+      setting up lawn chairs and telescopes. No one looked twice at the old man and
+      young woman wearing aluminum foil helmets. Sitting down on an empty bench,
+      Abe opened the beautiful velvet case she\u2019d seen in his shoebox, under
+      all the fortunes, and pulled out two pairs of exquisite, antique gold eyeglasses
+      with amber lenses.  \u201COne pair for you and one for me,\u201D he said. \u201CWith
+      these, during the eclipse, that which has been cloaked in darkness will become
+      visible.\u201D  *  *  *  When the moon took its first bite of the sun, Abe
+      reached for Sidra\u2019s hand.  \u201CThe trees, Sidra!\u201D Abe exclaimed.
+      \u201CThe flowers! The fountain! The park is as breathtaking as I remember.
+      Now for an opening, so I can peer into the cosmos. \u201D  Sidra couldn\u2019t
+      see a thing.  \u201CAbe, this isn\u2019t funny.\u201D  Suddenly Sidra\u2019s
+      darkness turned blood red and what looked like human remains rose from the
+      dirt and began to wail. What was happening? She screamed. Or thought she screamed.
+      Swirling straightjackets surrounded her as shadowy figures called out. She
+      had to be hallucinating. Is this what was in Abe\u2019s head? His mind\u2019s
+      eye?  It was as if he knew what was happening. He wrapped both his hands around
+      her trembling one. \u201CBreathe, dear Sidra\u2026breathe,\u201D he said. \u201CNothing
+      you see can hurt you.\u201D  Sidra slowed her breath and as she did, glimmers
+      of soft light began to appear and slowly grew bigger and brighter. She felt
+      Abe\u2019s energy and kindness flow through her as everything came into focus.
+      There was an explosion of light around her. Or inside her? She wasn\u2019t
+      sure. But the frightening shadows faded, transforming into kind faces and stories
+      and radios.  Sidra wasn\u2019t sure about the whole universe \u2013 but, she
+      thought, perhaps on this planet, she was no longer alone."
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  - songID: 6
+    name: The Driving Snow
+    content: "I tied and untied my Converse in the passenger seat, knees tucked close
+      to my chest and sitting very still in the empty Southwest High School parking
+      lot. One by one, snowflakes fell from a gray and motionless sky, only to land
+      and melt instantly on the windshield, transforming into nothing but a dot of
+      clear liquid, almost as if it were raining. It was New Year's Eve, my last
+      year of school, and I was miserable.   Suddenly the driver\u2019s side door
+      flew open and a burly man holding a clipboard leaned down. The driving instructor.  
+      \u201CCosette Evans, right?\u201D he asked, plopping himself into the seat
+      before I could answer. The car shook slightly and his cologne filled the interior,
+      his stomach brushing the bottom of the steering wheel.   \u201CThat\u2019s
+      me,\u201D I replied, letting my shoes slide to the floor. He glanced down at
+      his clipboard and back up at me.   \u201CSo,\u201D he said, clearing his throat.
+      \u201CYour fourth try?\u201D   \u201CYes.\u201D I pulled my glasses out of
+      my pocket.   \u201CWell you probably know the drill then, don\u2019t you?\u201D  
+      We swapped places - I meandered around the front of the car and he around the
+      back. It was a silver Honda Civic, the kind of car Dad had when I was growing
+      up, but a few years newer. For a moment, I placed my finger in the beaded droplets
+      that had collected on the hood and spelled my name in them. For good luck maybe,
+      but nobody ever said fourth time\u2019s a charm.  \u201CI haven\u2019t got
+      all day,\u201D the man grumbled from inside when he saw me dawdling. I wondered
+      if he was always this impatient or only with the kids who hadn\u2019t passed
+      their exam the first time around.   I climbed into the driver\u2019s seat and
+      started the car, placing my hands at ten and two.   \u201CLet\u2019s not waste
+      time in the parking lot,\u201D he said. \u201CWe\u2019ll make our way out to
+      27th and head downtown before the snow gets any heavier. Big storm coming.\u201D  
+      I put the car in drive and inched forward, too afraid of letting my foot leave
+      the brake entirely. The snow was dizzying. Through it, I noticed the Shake
+      Stop across the road with one of those colored \u201COPEN\u201D signs all lit
+      up and blinking, turning the snow that fell in front of it blue then red. Who
+      would want to go there in this weather, I thought. Last year Jamie and I took
+      Dad there for his birthday; it was the hottest day of the summer.  \u201COne
+      Peanut Protein Dream Shake please,\u201D he said confidently to the worker.  
+      \u201CPeanut Butter Dream Protein Cream Shake,\u201D I whispered to him, shaking
+      my head and snickering with Jamie.   \u201CHow is anybody supposed to remember
+      that,\u201D Dad joked as he handed over a twenty. \u201CIt\u2019s like the
+      password to a secret club.\u201D The worker laughed. I recognized her from
+      school, a year or two below me.  But I remember it so clearly because it was
+      the day before his diagnosis. We were sitting on the stones at the edge of
+      the strip mall, looking over at the sun setting above Southwest High. I loved
+      how it painted the brick walls a bright, dazzling orange. Midsummer was in
+      full swing and the cicadas were just beginning to come out from the creek bed
+      behind the building.  \u201CYou guys like high school?\u201D Dad asked us.  
+      Jamie grinned and rolled her eyes. \u201CIt\u2019s summer break, Dad. Don\u2019t
+      do this.\u201D   \u201CI\u2019m just asking,\u201D he exclaimed, taking a sip
+      of his shake. \u201CI think you two will love senior year, especially you Cozy.\u201D  
+      \u201CWhy\u2019s that?\u201D  \u201CBecause,\u201D he replied, the sun illuminating
+      his brown eyes, \u201Cyou\u2019ve always loved a good ending.\u201D   As I
+      flicked on the left turn signal at the 27th intersection, staring at the spot
+      across the road where he\u2019d said that to me, I was already fighting back
+      tears. There wasn\u2019t going to be a good ending. Things had become so different
+      so quickly. How was I ever supposed to keep up?  At the light, I was hoping
+      for a left arrow, but all I got was a bright green circle. I sniffled and eased
+      off the accelerator into the middle of the intersection. Honestly, I hadn\u2019t
+      the first clue what yielding meant or when I was allowed to turn.  Driving
+      never really clicked for me. It worked out just fine for Jamie. Dad had taught
+      her, though. Once she\u2019d learned how to do it, he\u2019d become far too
+      sick to stand, so I was left to fend for myself. I took a few lessons on Wednesdays
+      after school and even some exams, but I always lacked the confidence to speed
+      up or keep both hands on the wheel, all while watching out for other cars.
+      It frightened me, like I was a risk to everyone else on the road. I\u2019d
+      get distracted, always picturing Mom throwing up in the toilet at three in
+      the morning and the unforgettable feeling of Dad\u2019s grip loosening on my
+      hand in the hospital.   Somehow I turned safely and began driving north. The
+      road was wide and gray, its two lanes empty except for our Civic. I stayed
+      in the left lane, cruising a full ten under the speed limit. The instructor
+      didn\u2019t seem to mind - he kept saying \u201Cnice and easy\u201D like he
+      could sense my nerves. It helped.  I watched the trees, frozen and bare, reflecting
+      on the windshield as if they were trying to protect us from the falling snow
+      with their wicked branches. The suburbs built in the 70\u2019s blew past in
+      a flurry of white and brown. Some people still had their colored lights on,
+      even though Christmas was finally over and the world felt worn out, like it\u2019d
+      just run a long race - the same one, year after year.   \u201CGot New Year\u2019s
+      plans?\u201D the man asked me, tapping on his clipboard with a pencil.  \u201CNot
+      really, no.\u201D  \u201CMom and Dad let you go out with friends?\u201D  In
+      one quick breath I said, \u201CMy mom\u2019s in a psychiatric hospital and
+      my dad died in August.\u201D  I shouldn\u2019t have let it slip out that way.
+      I hated how nonchalant I sounded - so disconnected, emotionless, when really
+      I was the opposite. I came across so matter-of-fact, but there was no use in
+      lying, especially when my parents were all I thought about.  \u201CJesus,\u201D
+      he said. I could feel his eyes on me, his sympathy. \u201CI\u2019m really sorry.\u201D 
+      I stared straight ahead as we passed under the glow of another green light,
+      feeling my face turn sour and my eyes well up. The snow was thickening now
+      into wide clumps. I turned on the wipers. How many times had Dad driven me
+      down this road himself, me in the rear, kicking the back of his seat to piss
+      him off, just so he\u2019d reach behind and tickle my legs? He used to take
+      me to the library all summer long, back when my hair was blonde, to the fields
+      where I played soccer in first grade, and the sledding hill behind the YMCA
+      that no one else knew about except for me and him.   I thought about my best
+      friend Kayla and how warm the holidays felt at her house, with its massive
+      kitchen island and her kind older brothers and Jack Russell Terrier, how lucky
+      I was that she\u2019d invited me and Jamie to sleep over on Christmas Eve.
+      We slept in the same bed that night, just like we had when we were young and
+      it would thunderstorm, her arms wrapped around me as I sobbed myself to sleep.
+      Then I started to wonder why even when we found Mom unconscious in the bathtub
+      earlier that month, I still hadn\u2019t seen Jamie cry. Why was she always
+      the one who could keep herself together? Why was she the strong one?  \u201CMy
+      dad died when I was seventeen,\u201D the man said softly, after a few minutes.  
+      \u201COh,\u201D I mumbled. \u201CI\u2019m really sorry too.\u201D   \u201CIt\u2019s
+      alright,\u201D he said. A moment later, \u201C I wish I could tell you it goes
+      away, but losing a parent never really does. Not completely. Especially when
+      it\u2019s sudden. It\u2019ll always feel like a piece of you is missing in
+      some way or another.\u201D  I said nothing, feeling a tear slip down my left
+      cheek.   \u201CSorry,\u201D he said, turning back to the road. \u201CWe don\u2019t
+      have to talk about this. Really, I\u2019m sorry.\u201D   \u201CIt\u2019s okay.\u201D  
+      The two of us sat in silence until we crept up on South Boulevard, where the
+      city began to get denser, the bungalows a little older but a little nicer.
+      We were around the corner from the country club where Jamie and I worked last
+      summer. I used to walk around the neighborhood with her on Fridays after we
+      finished, waiting for Dad to pick us up and take us for Slurpees at the 7-Eleven
+      down the road. He would wink and say, don\u2019t tell your mother.   Before
+      she was even seventeen, Jamie had already picked out a house on the corner
+      of Sycamore Avenue that she wanted to buy when she got married and bought a
+      dog. His name would be Sparky and she\u2019d have two kids, a boy and a girl.
+      I could never think about my future like that because I never knew what I wanted.  
+      \u201COne day you will,\u201D Dad had told me when we were sitting together
+      in the driveway last May. \u201COne morning you\u2019ll wake up and open your
+      windows and see the world in a different way and deep down you\u2019ll know
+      exactly what you want. You\u2019re still so young, Cozy. And just because Jamie
+      thinks she\u2019s got it all figured out doesn\u2019t mean she really does.
+      You always think about things too much, but that\u2019s what I like about you.
+      You\u2019re so much like I was. Like I still am.\u201D   I felt my voice tremble
+      and say to the instructor, \u201CDeath was never something I thought about
+      until he died. It wasn\u2019t real, it was never something that could actually
+      happen to anyone I know. It was only something they talked about in books or
+      at church or on TV, you know? Like car crashes or tornadoes or something. That
+      sort of pain seemed so far away from me, so impossible to understand. But now
+      I get it.\u201D  \u201CI know exactly what you mean,\u201D he replied as we
+      approached another intersection. \u201CTake a right here.\u201D   Through the
+      passenger window I saw the old Pizza Hut that got turned into a bank and next
+      to it, the empty lots where there used to be a farmer\u2019s market. Mom and
+      Dad would take us when we were tiny almost every Sunday morning. I remember
+      them swing dancing like fools to the jazz band by fountains. With silly grins
+      on their faces they\u2019d whirl around and all the other people would clap
+      and dance along with them. Meanwhile Jamie and I would take our shoes and socks
+      off and splash under the falling water, soaking our hair and our sundresses
+      and giggling because we didn\u2019t have a care in the world. Once we\u2019d
+      dried off, Dad would buy us each a Whoopie Pie, a chocolate one for Jamie and
+      an oatmeal one for me. It\u2019s funny, thinking about it now, realizing that
+      little girl is still me, that I have the same hair but a little darker, the
+      same hands but a little bigger, the same smile but a little less crooked. Remembering
+      that time felt like looking out from deep inside a cave, from a place where
+      the light no longer reached. In my memory, it seemed like the sun shined every
+      day back then, and nothing ever felt wrong or sad or complicated or terrifying.  
+      \u201CHow did it happen?\u201D I asked him. The wind was picking up and the
+      speed limit was forty now, but for some reason I felt this strange sense of
+      peace.   \u201CHeart attack,\u201D said the man. \u201COne minute he was grilling
+      steaks for my brother and I, the next just\u2026gone, that quick.\u201D   \u201COh
+      man.\u201D   \u201CHow about your dad?\u201D  \u201CBrain cancer.\u201D I was
+      staring at the road, mesmerized by the snowflakes dancing up the curb and weaving
+      through the blades of flat, dead grass on the median. It almost felt like we
+      were inside a snow globe.   \u201CJesus. Awful disease.\u201D He sniffled and
+      quietly wiped his eyes with a tissue from the glovebox, offering me one in
+      the same gesture, but I wasn\u2019t quite crying anymore. After a minute he
+      said \u201CYou know, I remember hating it when people would tell me that eventually
+      it would get better.\u201D  \u201CYeah. I\u2019m not sure I want it to get
+      better,\u201D I said, now coasting at the speed limit. \u201CI just want it
+      to be the way it used to, like to turn back time or something and be a kid
+      again.\u201D   \u201COh man, we all wish that,\u201D he chuckled. Out of the
+      corner of my eye, a kind, genuine smile. \u201CEvery damn one of us.\u201D  
+      He had me turn into the entrance of Jameson Park. We\u2019d practice parallel
+      parking for a minute, then head back to Southwest High before the snow came
+      down in sheets. The lot was completely empty except the shrunken snow pile
+      in the corner, sharp with ice chunks and speckled with gravel and dirt. Even
+      from across the parking lot I could see the contrast of the fresh powder settling
+      over it, pure and white. I wondered if by tomorrow, the old pile would be completely
+      invisible, swallowed up by the new snow falling from the sky and blanketing
+      the concrete.   \u201CThis is the hardest part though,\u201D said the man. 
+      \u201CParallel parking?\u201D  He laughed. \u201CWell yes, that. But I mean
+      the first year without him.\u201D   \u201COh, I guess, yeah.\u201D   \u201CIt
+      won\u2019t ever go away completely,\u201D he said. \u201CBut you\u2019ll learn
+      to live with it, like they\u2019re a part of you. And then eventually you have
+      your own kids and realize your parents loved you more than you could ever understand.
+      It\u2019s different. But it heals you.\u201D  The man set out four orange cones
+      in a rectangle and told me I was supposed to park in between them. With patience,
+      he guided my maneuvers. Back for just a few feet, turn to the left and foot
+      off the brake. Then ease it to the right and let the car slide in between.
+      I could hear the tires crunching the snow underneath, mapping the car\u2019s
+      every move, every rotation of the steering wheel and every inch backward. The
+      windshield wipers squeaked as they brushed wet flakes off the glass, and within
+      no time I was parked squarely between the cones.  \u201CNicely done,\u201D
+      he exclaimed. \u201CFirst try, too.\u201D   \u201CThanks.\u201D  \u201CI won\u2019t
+      make you do it again,\u201D he said, then hopped out to pick up the cones and
+      place them back in the trunk. He bent over and peered through the passenger
+      window. \u201CWow. I can\u2019t even see the tire tracks from when you drove
+      in here.\u201D   I turned and looked at the entrance, but once again without
+      warning my memories were taking over. I thought about the whole drive there
+      and then the library. The warmth from the lights inside and the kids I saw
+      reading in the nooks through the windows. The long, steep sledding hill, and
+      how tomorrow there might be a new little girl there with her father, how they
+      might think it\u2019s their own secret hill too, just the two of them. The
+      old farmer\u2019s market and the soccer fields in the summertime, the parents
+      who cheered on their daughter loudest even though she never touched the ball.
+      I thought of all the other kids who one day would have to go through things
+      they could never imagine, feel things they would never want to feel.   There
+      was a certain stillness in that moment, that singular thought - the wind had
+      let up and the snow fell softly for a few seconds, straight down to the earth.
+      For the first time, I really looked at the driving instructor\u2019s face,
+      the warmth from his eyes, the white flecks of snow gathering in his thinned
+      hair. He was almost smiling, his mind elsewhere, and I imagined that soon he
+      was going home to his wife and their kids. A small and modest house, but a
+      true home. It was New Year\u2019s Eve for him too, after all. I pictured his
+      wife holding two champagne glasses and his kids popping open those mini confetti
+      cannons like Jamie and I used to. There in front of me was somebody else\u2019s
+      father, somebody they looked up to, somebody else\u2019s everything. How lucky
+      were they? How lucky had I been?  I thought about how one day I was eight and
+      the next day I was eighteen. How I would have days where I felt even worse
+      than I did today. And days where I felt better. I thought about finishing high
+      school, how by the time I walked across the stage, all of this snow would just
+      be a memory. The New Year\u2019s blizzard, we\u2019d call it. I\u2019d miss
+      this moment too, when everything was vivid and painfully clear, when for the
+      first time since August I felt my father\u2019s love again.  The last few months,
+      I\u2019d come to believe that memories were the only place I could keep my
+      Dad, and if somehow I lost them all to time, eventually I\u2019d have nothing
+      left. But I realized there in the parking lot that so much of what I thought
+      was me, was really him - my own brown eyes, the way I walked with long strides,
+      the stupid old jokes I told, what I ordered at Chinese restaurants, how I held
+      my mother when she was sobbing. Perhaps all of that was him too.  \u201CDo
+      you want me to drive us back?\u201D the instructor asked me. \u201CSnow\u2019s
+      getting pretty bad.\u201D  \u201CThat\u2019s okay, I\u2019ll drive,\u201D I
+      replied, finally breathing out. \u201CI actually like the snow.\u201D"
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  - songID: 7
+    name: Long Live the King
+    content: "\"I was eight years old the first time I heard his name.\" Shifting
+      in the hard plastic seat, my wrists are shackled to a metal chain link at the
+      center of the table, limiting my mobility.  The officer observes my discomfort
+      passively, already impatient and annoyed with my recollection of events.  \"I
+      was thinking a little more recent, Miss Clark. Like why you were caught standing
+      outside his home with a bloody\u2014\"  \"No, no, you don't understand. I need
+      to start at the beginning. So you can understand,\" I enunciate, not trusting
+      Officer Dougher, an overworked, underpaid, exhausted, dispassionate cop, to
+      actually comprehend the beauty of my tale.  A tired sigh escapes me, not from
+      lack of sleep but disappointment. Officer Dougher waves his fingers, gesturing
+      for me to continue. I don't trust him, but this is the end of the line. The
+      metal handcuff digs into my wrist as I adjust in my seat so I can really get
+      into the story. Ignoring the pinching skin, I lean forward, welcoming him into
+      my world.  I think back to that day, so many years ago now. Curled up in a
+      ball on the lumpy, plaid couch, the edges of the cushions fraying, made worse
+      when I ran my fingers along the seams. Shivering as the winds howled and rattled
+      the single-pane glass windows of my friend's tiny cabin on Cliff Island, off
+      the coast of Maine.   The day started bright and sunny, and like all the other
+      kids who lived temporarily or year-round on the island, we spent every second
+      playing in the ocean and cutting away debris through the woods like explorers
+      and marauders. My best friend Ella had a neighbor, a boy who was older than
+      us, maybe only a year or two, but at the time, the schism of our ages felt
+      enormous.   He was tall. He spoke confidently and made fewer stupid jokes than
+      the boys Ella and I went to school with on the mainland. Something about that
+      island boy consumed me, and he was all I could think about as we explored the
+      island that summer. I followed him bravely as we climbed up trees and leaped,
+      clutching the makeshift swing as we flung ourselves into the water below. 
+      As that particular day came to an end, I followed Ella, reluctant but resigned,
+      back to her camp; the first dewy drops of rain wet our shoulders, and the shadows
+      cast amongst the trees expanded. A storm was coming, you could smell it in
+      the air.  By the time night fell, it was like a hurricane descended upon the
+      island. Everything shook and howled and whistled, but the adults weren't concerned,
+      and neither was Ella, so I forced myself to pretend I wasn't scared, too. 
+      We curled up on the couch in the small den\u2014Ella called it the inside-outside
+      room because although there were four walls and a roof, the floor-to-ceiling
+      rattling glass windows still made you feel like you were outside. Hovering
+      together under mounds of blankets, Ella's parents flipped through the channels
+      of their old TV\u2014at that time, they could only get basic cable, and it
+      sat like a gargantuan box on the floor, surrounded by towers of VHSs and DVDs\u2014and
+      landed on a movie. A lime-green light and eerie music set the first scene. 
+      Ella's parents argued over whether they should let us watch it or not. In the
+      end, her mom sighed and told her dad he could be the one to deal with us girls
+      if we were up all night crying from nightmares.  That's not what happened,
+      though. Because I was eight years old and about to learn the name of the man
+      who would change my life forever.  'What's this movie called?' I whispered
+      to Ella, who loudly reiterated my question to her parents.  Her dad responded
+      between chews of soggy popcorn, 'Tommyknockers.'  It was a weird movie. I felt
+      like my mind was being twisted and warped and corrupted, then pet gently to
+      rest when the movie came to an end.  'It's a Stephen King. You girls've heard
+      of 'im, right? He's a Mainer,' her dad announced proudly. As if we had a claim
+      to him. As if we should know him.  \"That was when my obsession started,\"
+      I return to the present, explaining to the officer in front of me. His pen
+      lifts off the yellow-lined notebook, sparking my curiosity. Why wouldn't he
+      use a laptop to take my statement? Surely that would be easier?   I like the
+      drama of the pen and yellow-lined pages. Like we're back in the fifties, and
+      he's trying to get me to talk by making the room a little too hot and the light
+      too bright. Any second now, his partner, the good cop, will come in here and
+      offer me a cigarette and a whiskey.  \"Miss Clark,\" Officer Dougher prods,
+      annoyed that I keep getting lost in my head.   \"I didn't play with the other
+      kids the next day. I didn't care about the tall, handsome boy next door. After
+      the movie ended, I asked Ella's parents about Stephen King, and her mom casually
+      explained, while folding musty old blankets and picking up remnants from our
+      slumber party in the inside-outside room, that she had a few of his books lying
+      around somewhere. I just had to dig around and find them.\" I tell the story
+      like I'm writing it down, with nuance and interiority.  \"You see,\" I tell
+      the cop\u2014or is he a detective? His plain clothes point to the latter, but
+      he's the same man who caught me outside the tall, gothic red mansion, handcuffing
+      and stuffing me into the back of his cruiser. \"I spent that whole summer,
+      hell, the entire next year reading The Dark Towers. I didn't understand half
+      of what I was reading, needing a dictionary to help me translate nearly every
+      line. But it was nothing like the books we were reading in school. I became
+      obsessed.\"  Dougher reacts to this word. Obsessed. It's a trigger word, a
+      small point against me, an indication that I wasn't quite right in the head. 
+      \"That led me to other authors, of course. Ray Bradbury, Frank Herbert, Clive
+      Barker, Douglas Adams. Then, as I got older, it became Atwood and Nin, Vonnegut
+      and Palahniuk and Bukowski. I lost myself in\u2014\"  A gruff throat clearing
+      interrupts my train of thought, and I glance up, wide-eyed and mystified, suddenly
+      immersed in all those unspent feelings of my youth, trapped in a miasma of
+      misanthropy and bibliophilic lust.   But Officer Dougher and his graying, whiskery,
+      late-shaven face is disinterested in my passions. He wants the crux of the
+      story, the meat of it, the spoilers. He doesn't want the prose or tension.
+      Just give it to me, his eyes scream. Just admit what you did!  He would truly
+      hate reading Tom Robbins.  He releases a long, suffering sigh when the door
+      creaks open behind him, and a second officer, this one clad in standard blues,
+      enters the room, holding a clear plastic evidence bag.  I wince when I see
+      the contents.  The new cop drops the bag unceremoniously on the table between
+      Dougher and me, then turns to leave. I look up, making eye contact with the
+      camera in the corner of the room near the ceiling, the little red dot trained
+      on me, recording my every move.  They'll later use the footage as evidence
+      of my guilt; they'll tell people I bared myself open on the table, as raw and
+      exposed as the smashed plastic and metal drone, now covered in dried blood
+      in the plastic evidence bag, the camera above capturing my every thought and
+      memory.   My erratic behavior, the evidence bag, and a signed confession are
+      all Dougher wants from me, though, so I relax; he's only got two out of three. 
+      Ignoring his impatience, I smile wistfully. \"That was when I began writing.
+      I wrote and wrote and wrote. I took creative writing classes, I got a degree
+      in English and Communications. But I kept getting rejection letters. Over and
+      over again. And then one day,\" I lean forward, lowering my voice, pleased
+      when Dougher mimics my posture, finally intrigued.  \"Then one day, I was in
+      Bridgton at a Walgreens, and who's up at the prescription counter but Stephen
+      fucking King.\"  Dougher lifts his eyebrows, not getting it. Not understanding.  
+      I grunt. His ineptitude is exhausting. \"Anyway, when he walked past me, I
+      couldn't help it; I tried to talk to him and I was so awkward, stumbling over
+      my words. But he was so kind and polite. I told him I was writing horror, like
+      him, and that he was my inspiration. That I fell in love with writing because
+      of him, but I just couldn't get published. And do you know what he said?\" 
+      \"What did he say?\"  \"He said, 'Not everyone can be scary.' And then he smiled
+      that stupid, toothy smile and left.\"  Finally, finally, understanding dawns,
+      the doughy man\u2019s cracked lips pressing together thoughtfully.  \"And that
+      hurt your feelings? You wanted revenge? That's why you flew\u2014\"  \"No,
+      of course it didn't hurt my feelings. It motivated me.\"  Dougher's pen stills
+      on the yellow paper once more, glancing at me beneath his lashes. He's trying
+      not to spook me or slow my momentous storytelling, but he also doesn\u2019t
+      want to admit he\u2019s still confused.  \"Look. I was his biggest fan. But
+      his last few books,\" I lift my palm, bound as it was to the table, and made
+      a 'so-so' gesture with my hand. \"I think he just needed a little inspiration.
+      It was kind of poignant, too, don't you think? Very Annie Wilkes of me.\" I
+      smile proudly, but this idiot still looks confused.   \"Misery?\" Still, nothing.
+      \"Kathy Bates?\"   Recognition passes his face, and I don't resist the eye-roll. 
+      \"That's the one about the woman who's obsessed with the author, and she kidnaps
+      him and makes him rewrite the story, right?\"  \"Very good, Dougher, even if
+      you did get that from the movie. But did you know that Misery was inspired
+      by another short story of a similar premise?\"  \"I did not. So\u2026 you identify
+      with this\u2026 Annie Wilkes character, then?\"  I shrug.   \"Miss Clark\u2026
+      what I really want to know is\u2026 what happened when you arrived at Mr. King's
+      Bangor home at 12:36 AM this morning?\"  I glance back at the evidence bag,
+      the broken drone, which I lost control of, and the smattering of blood on the
+      plastic casing.  On the one hand, I could tell him the story of how it all
+      went so sideways, not at all according to my plan.   Or, I could tell him what
+      actually transpired while adding narrative, a creation of my own making.  \"Alright,
+      Mr. Dougher. Here's the story of what happened last night when I arrived at
+      Stephen King's mansion\u2026\""
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  - songID: 8
+    name: What Kind of Mother
+    content: "Trigger Warning: infant/child loss, drowning  The day my daughter died,
+      I became the villain of my own life story.  When your child dies of cancer,
+      there are fundraisers and flower delivery vans and friends taking shifts sitting
+      up with you through the long black nights and washing your hair.  When your
+      child dies and it\u2019s your fault, there are no homemade casseroles filling
+      your freezer, no one to hold your hair back as acrid vomit wracks your body
+      through the early morning hours, bilious and yellow from the lack of meal trains
+      organized on your behalf.  There are half-hearted assurances and crepe-thin
+      oaths that you did nothing wrong, but no one holds your hand as you trudge,
+      desperate and empty, behind a too-small casket, upturned palms wretchedly empty. 
+      Because what kind of mother lets her daughter die? What kind of mother? What
+      kind of mother?  --  Annie was born with a full head of chili-red hair.  \u201CIt\u2019s
+      a girl!\u201D Chip cried, a tear coursing down his cheek, tinged green from
+      his chronic, but now long forgotten, aversion to blood.  \u201CI\u2019m so
+      proud of you,\u201D he whispered, and brushed an errant strand of hair, soaked
+      with sweat, from my forehead, before planting a tender kiss on the top of my
+      head.  \u201CI can\u2019t believe she\u2019s here.\u201D  --  In my worst moments,
+      I imagine the last seconds of her life. Was she old enough, conscious enough
+      of her own mortality, to know what was happening? I remember the bulging, terrified
+      eyes of a newborn as a snug onesie is pulled down over their bulbous, disproportionate
+      heads, and for one fleeting second they are in darkness, without air or sense
+      or comfort. If an infant can feel horror, primordial, instinctual, then surely
+      she must have felt the same?  Did she flounder, thrashing, splashing, grasping
+      for someone? Or was she assured, in the way that babies are, that her mama
+      would swoop in, be there any moment, save her? Was there a moment she realized
+      help wasn\u2019t coming? Was she afraid? What images of her so-terribly-short
+      life bathed the backs of her eyeballs as her brain slowly suffocated? Did she
+      see my face? Did she feel something akin to betrayal? With her final fragment
+      of consciousness, the last fire of a synapse, did my daughter\u2019s brain
+      shriek, Where is my mama?  In the best moments, I have hope that perhaps she
+      simply floated, weightless and peaceful, from the shores of this life, bobbing
+      in the wake of her own tumble, until the over-chlorinated cocoon that carried
+      her away from me faded into stardust and eternity.  On bad days, I know, in
+      my deepest, most terrible self, that she didn\u2019t.  --  Her gummy smile
+      used to crack her face open, her mouth stretched wide, as if she couldn\u2019t
+      contain all that joy within one terribly small person, as if it needed an outlet
+      to pour out of.  --  In the long, horrible days that came after, reporters
+      from KJTV and WP10 and who knows where else congregated in threadbare clusters
+      at the end of our road, loping tentatively toward our home from time to time,
+      craning their necks and their cumbersome cameras over our cinderblock fence,
+      trying to catch a shot of the pool, or of me, or, in a best case scenario,
+      of me lying prone, beating my fists against the chipped terracotta tiles by
+      the pool, I suppose? I thought about it, more than once.  Eventually Chip brusquely
+      cleared the block, physically shooing the sensible pump-clad and contoured
+      reporters away from our home. \u201CLeave us alone, please,\u201D I heard him,
+      his voice catching on a suppressed sob.   \u201CMr. Sutton,\u201D a bright
+      voice, dripping with flimsy concern, peeled. \u201CDo you blame your wife for
+      what happened to your daughter?\u201D  Chip\u2019s voice was gruff. \u201CMy
+      wife loved Annie. Please, we lost our girl. Leave us be.\u201D  When the front
+      door slammed behind him, his eyes traveled up to meet mine. He nodded stiffly,
+      and padded to his office, the door clicking closed behind him.  --  She only
+      took contact naps. She\u2019d open her bleary, inky blue eyes and I\u2019d
+      watch as the fog of sleep lifted, her momentary panic, her pupils contracting
+      until they focused on my hovering face. And then the smile, that earth-shattering
+      smile- relief and unbridled delight. Ah, you\u2019re still here, it seemed
+      to say. \u201CYou don\u2019t have to be afraid, Annie. I\u2019ll always be
+      here,\u201D I whispered, lips fitting into the shallow valley of the bridge
+      of her nose.  --  In the Sheriff\u2019s Office, they asked the same question
+      in about a million ways: could she walk? How did we suspect she got out there
+      so quickly? Was she still crawling? Eleven months is awfully young to be walking
+      independently, wasn\u2019t it?  Eventually Chip asked, \u201CAre you implying
+      that someone moved her out there? Are you trying to ask if someone put her
+      out there on purpose?\u201D  The Sheriff waved the question away, a troublesome
+      gnat zigzagging around the room, but its buzzing filled my ears until a migraine
+      bloomed in my cerebellum and two deputies had to help me out to the Subaru,
+      Chip three paces ahead. He opened the door and I spilled into the backseat.
+      The ride home was silent, but for the buzzing question still flitting between
+      us.  --  Her hot dog fingers would bury themselves into the depths of my thick
+      hair and spool ribbons of it into her soft palms, pulling my face toward hers
+      for a wet, open-mouthed kiss.  --  As it tends to do, the news cycle moved
+      on, and our front yard fell silent.  It felt like a force field was cloaking
+      our existence, because the world moved on without us- without her- and without
+      the reporters furtively shifting through our trash, now no one acknowledged
+      our existence, our loss, at all. Her name disappeared from the local papers.
+      The medical examiner, and social services, and the crematory, satisfied now,
+      all stopped calling, stopped dropping in unannounced. I felt invisible, but
+      for the realtor\u2019s terse jerk of the head in our direction, mumbling something
+      to a prospective buyer as she ushered them inside our neighbors\u2019 home,
+      which had been abruptly listed for sale.  It was just Chip and me and a stack
+      of pink and yellow-striped birthday presents piled up in the corner of the
+      living room that I couldn\u2019t bear to move, even though my entire being
+      vibrated with agony with every glance in their direction.  But then, suddenly,
+      it was just me.  The divorce papers called our marriage \u201Cirretrievably
+      broken\u201D.   \u201CWhile Mr. Sutton believes that Mrs. Sutton was not maliciously
+      responsible for the death of their child, it is indisputable that Mrs. Sutton\u2019s
+      actions directly led to her death, the strain of which has contributed to the
+      total and irreconcilable breakdown of the marriage.\u201D  --  \u201COh, Annieeee,\u201D
+      I trilled as I walked back into the living room, fingers sliding my second-day
+      blowout through the second loop of a hair tie on autopilot. Paw Patrol filled
+      the room with a campy beat.  I didn\u2019t notice that she wasn\u2019t in her
+      spot on the couch so much as the back door was open.  I froze.  Through the
+      open blinds, I saw it.  A mass of matted red hair bobbing just above the nearly-still
+      surface of the pool. The blob of pink fleece footie pajamas blurred through
+      the lens of the water.  And then I was thrashing through waist-deep water,
+      cutting my way toward her, fumbling to lift her head out of the water as it
+      flopped haphazardly about, all the tension released from her tendons and sinews,
+      heavy with water.  This was not reality. Couldn\u2019t be. This was an unwanted
+      image flitting through my brain, another intrusive thought, like how each time
+      I descended the staircase the picture sprang to my mind, unbidden, of fumbling,
+      dropping her down the stairs, her doughy body thumping down each tiled step,
+      punctuated by sharp cries, until there was only silence and one final thud.
+      And then I\u2019d close my eyes, shake my head, and the horror would fall away
+      like ash, and she\u2019d be there, gurgling and happy, tongue tentatively poking
+      at her newest tooth, and okay. She was always okay.  No, no, no.  My brain
+      buzzed with only this word, beating out a frantic rhythm that kept pace with
+      my racing heart. There was no sound; no splashing or the sodden squelch of
+      laying her on the cold deck tiles, but I would read later than the neighbors
+      called the ambulance when they heard my screams.  No, no, no. It was only three
+      minutes.  Her eyes were half-open, almost sleepy, like when she fell asleep,
+      milk-drunk and content at my breast. Peaceful, like she\u2019d never known
+      fear.  Oh god, had she been afraid?  But she was horrifically still. I knew,
+      even as I slammed my palms against her sternum to the beat of Stayin\u2019
+      Alive, like they\u2019d taught us in our parenting classes. She was still and
+      gray in the way the stillborn son I\u2019d delivered as a teenager had been.
+      \u201CYou\u2019re going to hell,\u201D my grandmother had spat as I sobbed
+      over his fragile body, with its hazy skin already beginning to sag, completely
+      devoid of a subterranean current of moving blood flushing his face. \u201CGod
+      is punishing you.\u201D She called over her shoulder as she slammed the wardroom
+      door shut behind her.  The paramedics peeled me off her like a second skin. 
+      My fingers raked the air, reaching for her even as the frenetic scene unfolded
+      around me, like one of those doubletime shots of traffic moving through an
+      intersection, cars blurred into nothing but for their taillights streaking
+      out behind them like the tail of a comet.  No, no, no.  \u2013  My therapist\u2019s
+      office is dimly lit and layered with essential oil diffusers sending up gentle
+      puffs of lavender-scented clouds, down-filled throw pillows, and a tinkling
+      Buddha water fountain. It\u2019s intended to be soothing, but it feels more
+      patronizing. I wince at a fluffy stuffed animal tucked into a shelf, tears
+      pricking my eyelids. It seems exceptionally cruel for CPS to mandate my presence
+      here now that I have no child.  Dr. Linda nods and smiles serenely from time
+      to time, but mostly I sit and cry more than I say anything of note. I certainly
+      don\u2019t feel rehabilitated or supported or like I have been aided in any
+      sort of revelation about how I got here, to this nubby Ashley loveseat in this
+      dark office.  Today I\u2019m angry.  (That\u2019s normal, Dr. Linda says.) 
+      Today I rant. And I cry. And she nods and smiles and says, \u201CGo on.\u201D 
+      Why is it that in true crime shows, as a victim lays clinging to life, they
+      use their last breaths to name their killer?  Is it that vengeance burns in
+      our bloodstreams even after the rest of our humanity has been flayed from our
+      bones? Is laying blame more powerful than everything else?  These questions
+      keep me up at night now, buffeting me with their sharp edges.  \u201CInteresting,\u201D
+      Dr. Linda says. \u201CLet\u2019s explore that idea. What do you think Annie\u2019s
+      last words would have been?\u201D  I\u2019m momentarily paralyzed by the exercise. 
+      \u201CAnnie had only learned one word when she died.\u201D My voice is rough,
+      and the words taste so bitter I spit them out.   \u201CMama.\u201D"
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  - songID: 9
+    name: Departed, Return
+    content: "\u201CAnd then there was another Mark,\u201D Dad recalls, sending the
+      table into an encore of laughter.   \u201CStop it!\u201D Hannah pleads, tears
+      rolling over sun-reddened cheeks. She perches opposite him, one leg hiked on
+      the serrated bistro chair, a rum and coke bubbling in her left hand, the right
+      clutching her stomach. She is 18, the spit of her mother \u2013 so she\u2019s
+      told \u2013 and will be off to university in two months.  \u201CYes, God, please
+      stop.\u201D Begs Ryan, who is next to Dad, head in his hands. Muffled by skin,
+      his voice is still so freshly broken that it takes a moment to place the deep
+      timbre. At 15, and without an academic bone in his body, university is of no
+      more concern to him than a misplaced earbud, or an empty crisp packet discarded
+      on his bedroom floor.  You lounge at Hannah\u2019s side, tipsy off white wine,
+      delighting in their mortification at your pre-Dad romances. Mark one, from
+      school. Chris. Dave. Chris, again. Mark two, from an 18-to-25s cruise, the
+      details of which had scandalised Hannah half a glass prior. Mark three.  The
+      aluminium table you chatter around wobbles on uneven ground besides the shabby
+      reception-slash-bar. From here, you and Hannah can see the gift shops beyond
+      the gate, crammed along the hill all the way down to the sea. The water glistens
+      salmon and cornflower blue, a glassy mirror of the sky above.   In the fading
+      summer sun, you send off the last of the holiday. Six days in Corfu, lazing
+      by tepid pools that stretch out from two adjoining rooms. Fantastic views,
+      boasts the website, a luxury experience at a modest price. The white walls
+      hemming in each walnut deck between room and pool frame the hotel courtyard,
+      still in the throes of construction, slate tiles and half-empty gravel sacks
+      nestled under meagre cypress trees.   The last pink sliver melts into the horizon.
+      You sigh. Dad sighs louder, hands steepled over his belly. Hannah takes a picture.
+      Ryan snaps a selfie. The sliver rises again.   It climbs faster and faster,
+      and everything becomes lighter, brighter, too bright, clinical white, nothing. 
+      ***  \u201CAnd then there was another Mark,\u201D Dad recalls, sending the
+      table into an encore of laughter.   Not far enough. Try again.  The sun scrubs
+      across the sky, west to east.  ***  Four of you arrive in prickly silence,
+      three steering over-packed cases around potholes the size of small dogs. You,
+      sans-luggage, glowering at the rear. Arguments had bookended both airports,
+      now everyone ignores one another. Dad had insisted in taking your bags with
+      his. You\u2019d declined, he\u2019d taken them anyway. You\u2019d snapped,
+      he\u2019d started grumbling. He leads the sour trail, lugging weight he can
+      scarcely bear, refusing anyone\u2019s help.  Too far.  The sun jumps forward
+      until it becomes the moon and then the sun again, twice over. Day crawls on.
+      The shadows shrink.  That\u2019s better.  Floating on a neon green lilo, at
+      the spot where the wall meets the veranda and shadows cool the air, you flex
+      scarlet-painted toes in the water. Something vaguely blue and sticky-looking
+      clings to the edge of the cracked white sill. A string of ants parade over
+      the fissures. Dad snores from the deck, jet-engine loud. Luckily, the kids
+      don\u2019t have to share a room with him this time.   It\u2019s so far away,
+      what if something happens? Your mother\u2019s words find you in the shade.
+      You\u2019d exhausted yourself on the plane trying to chase them away, hence
+      your especially acetic mood on arrival.  It\u2019s only a four-hour flight.
+      You weren\u2019t going to let her guilt you this time. Besides, this\u2019ll
+      probably be Hannah\u2019s last trip with us. Hidden behind purple-tinged sunnies,
+      you grow drowsy, mouth parting as you slip in and out of sleep.  Gentle splashes
+      from over the wall \u2013 Hannah, paddling over to Ryan. \u201CWe should get
+      them something, like we used to.\u201D   Ceramic camper van from Devon, lilac
+      and palm-sized. Plastic magnet of Brighton Pier. Wooden turtle from Spain,
+      missing one leg thanks to less-than-careful treatment in the front pocket of
+      a backpack on the way home. Tokens of thanks, from whatever was left of their
+      spending money. Little treasures.   Ryan grunts. \u201CProbably just sit around
+      the house with all the other tat.\u201D  The kids think you and Dad hang on
+      to things. Piles of bills from 2009 crowd the corners of the lounge. Bits of
+      broken God-knows-what litter the shelf in the hallway, moved for dusting, put
+      right back after. On the landing, stacks of old schoolwork; every report card
+      Hannah\u2019s ever had. Within a year, the tat will have doubled.  \u201CTrue.\u201D
+      Hannah sighs.  ***  The next morning, you convince Dad to join them \u2013
+      your own pool is being cleaned, the little robotic vacuum trundling merrily
+      along the mosaic floor. Heat spikes your soles as you step onto their deck,
+      nearly sending you hopping into the clothes horse by the door. Hannah\u2019s
+      white paisley bikini from yesterday dangles off one tier like an aged cut of
+      meat. Ryan\u2019s black swimming trunks are puddled on the floor. You don\u2019t
+      even notice yourself hanging them back up.   A huddle of thirtysomethings clad
+      in variations of the same striped shirt bounce down the path at the end of
+      the pool as you wade toward the kids. One elbows his friend, laughing heartily,
+      and you catch the end of his teasing.  \u201C- just be normal for once, mate.\u201D 
+      Hannah snaps her head towards Ryan, whose eyes glint in recognition. They\u2019re
+      an even closer shade to yours than Hannah\u2019s.  \u201COh, nor-mil.\u201D
+      Ryan croons in a high-pitched voice.  Hannah laughs back, \u201COh, very nor-mil!\u201D 
+      \u201CWhat\u2019s that?\u201D you ask, worried you\u2019ve missed something
+      important.  \u201CNothing.\u201D Ryan shakes his head, smiling.   Hannah waves
+      you off with a hand. \u201CDoesn\u2019t matter.\u201D  And they bow their chins
+      and snicker.   Being an only child, you doubt you\u2019ll ever understand their
+      bond. You imagine it\u2019s the same camaraderie Dad and Jane might have shared
+      when they were young. Those two haven\u2019t seen each other since they buried
+      their own mother a decade ago. They learn each others\u2019 lives via Facebook
+      messages, tallying birthdays and Christmases and wedding anniversaries. Jane
+      only lives two hours away.  \u201CI\u2019d hate to end up like that,\u201D
+      Hannah had told you once.   But this is the only inside joke they\u2019ve shared
+      all year.   The day passes. You send the sun away, reel it back, yoyo it between
+      now and then and never.  ***  This time, the kids come over to your side \u2013
+      their turn with the vacuum \u2013 and claim both wicker sun loungers on the
+      deck. Grey cushions are a considerable oversight, so close to the water, but
+      one that at least feels on-brand for the hotel.  After an hour pruning in the
+      water - the kids eventually grew antsy and followed you in - you excuse yourself;
+      it\u2019s time to ring Nana.  Dad is waiting when you return.  \u201CI\u2019m
+      sure she\u2019ll call the ambulance if she needs,\u201D he says with a reassuring
+      pat on your shoulder when you relay the news. \u201CShe can take care of herself
+      for a few more days.\u201D   You were fairly sure Hannah had pieced together
+      by now that he wasn\u2019t particularly favoured by your mother, and that he
+      didn\u2019t overly care for her in return.  You chew your lip. \u201CI don\u2019t
+      know.\u201D  The kids pop up from the water, settling elbow to sunburnt elbow
+      on the deck.  \u201CHow is she?\u201D Hannah says, a pleasantry.  \u201CShe
+      alright?\u201D Ryan asks, a formality.   They don\u2019t speak with her much,
+      at their age.   She isn\u2019t \u2013 alright, that is. Days after you land
+      back in London, Nana will be hospitalised. Stomach cancer, most likely, but
+      she\u2019s too weak to do any investigating, and too far gone for it to make
+      any difference.   \u201CJust some tummy pain,\u201D you say. Deep creases have
+      carved a permanent home between your brows.   You smile across the dinner table
+      that night, a ropy approximation of happy. Several times, you catch Hannah
+      watching you with thinned lips, like she\u2019s trying to figure out when exactly
+      you started pretending.  The sun sets. The sun rises.  ***  On what might be
+      the fourth day, or the second, or the fifth, you seek out Hannah on the deck
+      next door, under the cover of the slatted veranda. She watches you sit down,
+      hand shielding her eyes from the sun, assessing your dark circles, the way
+      your skin hangs looser than it used to.  \u201CYou okay?\u201D Hannah asks.
+      She wants you to tell her the truth: you aren\u2019t, you haven\u2019t been
+      for a while. She wants to be able to help.   You nod, smile, lean back and
+      open your book. \u201CJust tired.\u201D  The family has watched you drain for
+      years. By October, you will be empty.  \u201CWhat you reading?\u201D you ask,
+      nodding to the tablet propped against her legs.  \u201CSort of a mythological
+      retelling. It\u2019s good.\u201D Hannah says. \u201CWhat\u2019s yours?\u201D 
+      \u201CMurder mystery.\u201D  \u201CNice.\u201D  She\u2019s always been an avid
+      reader, the payoff of night after night spent giving in to her little clasped
+      hands, badgering for just one more story before bed. The social skills, well.
+      You can\u2019t get everything right, says the first voice.  Then the second
+      creeps in. If you\u2019d taken the kids on more proper holidays \u2013 the
+      exciting ones, the ones their school friends went on, with theme parks, and
+      watersports, and swanky beach-front resorts \u2013 would she be more adventurous,
+      more sure of herself? Family holidays with you had been caravan parks, budget
+      hotels, croissants and satsumas smuggled from breakfast, produced later from
+      Dad\u2019s cargo shorts to save on food. You\u2019d have liked to go bigger.
+      You could\u2019ve afforded it, just about. Dad always talked you down. All
+      those pennies pinched, all those trips untaken, and for what? The spare cash
+      barely even covered Hannah\u2019s packing list.  \u201CWe\u2019ll have to go
+      to Ikea when we\u2019re back,\u201D you remind yourself aloud. She still needs
+      towels, bedding, kitchen things.   Hannah nods emphatically, frizzy topknot
+      bouncing against her head. \u201CYes, definitely.\u201D   In the end, Dad will
+      take her, help her pick out plates, bowls, a trio of varying-sized navy towels,
+      whilst you hover around a hospital bed, too distressed to watch, too distraught
+      to look away.  The veranda\u2019s shadows offer little relief from the heat,
+      and soon Hannah retreats inside to the AC. Sweat stains linger on the sun lounger
+      long after she\u2019s gone. The rest of the day ticks away.   You gather round
+      the table: Hannah, Ryan, Dad, Mum. Mum, Ryan, Dad, Hannah. Ryan, Hannah, Mum,
+      Dad. A hundred times, the order changes. It never matters.  The sun sets, unsets,
+      sets again.  ***  \u201COne more round?\u201D Dad asks. The three of you nod,
+      Ryan stands to accompany him. It\u2019s the final night again, or some version
+      of it.  You scooch your chair close to Hannah\u2019s, and the screech of metal
+      on concrete judders through your bones. When you draw an arm around her, you
+      half expect she\u2019ll shrug it off. Still, in that insufferable second where
+      she tenses, your heart splinters. But then she loosens, leans her head on your
+      shoulder. You hold your daughter for the last time that counts.  \u201CI don\u2019t
+      hug you enough,\u201D you frown into her hair, now shea butter and coconut.
+      The milky newborn halo only seems like last week. \u201CI don\u2019t know why
+      I don\u2019t.\u201D  She hums.  Nana will go two days before Ryan\u2019s 16th,
+      and you will tell Hannah, hundreds of miles away, over the phone.   \u201CWe
+      talked about taking you to Disneyland, once,\u201D you say, through an ache
+      in your chest you can\u2019t imagine being without.  \u201CThat would\u2019ve
+      been nice.\u201D Hannah muses, watching the sun dip below the horizon.   You
+      tug the headset off, hold down the button on the side until it turns red. Rise
+      from the bed in the spare room, surrounded by a dead woman\u2019s things, and
+      trudge downstairs.  Dad is waiting in the lounge.  \u201CYou alright, dear?\u201D
+      He lunges for a tissue, thrusts it into your hand, eyes the blue of the Ionian
+      sea darting worriedly over your face. He\u2019s greyed since that summer. You
+      aren\u2019t sure if you love him anymore. You can\u2019t remember if you still
+      did then.  \u201CI\u2019m fine.\u201D You sniff, dabbing at your eyes. The
+      tissue comes away damp, flecked with mascara. You both settle on the sofa and
+      wait for the call.   Hannah\u2019s name illuminates the phone screen. You answer
+      on the second ring. Her face appears in miniature, navy towel binding her wet
+      hair. It\u2019s been a trying week \u2013 tell you later, she\u2019d texted
+      at lunchtime. Okay x, you\u2019d replied, speak soon. She\u2019s tucked up
+      on her desk chair again, chin resting on her knees. Gold-rimmed glasses throw
+      soft shadows onto her cheeks, flushed pink from the shower.  \u201CHello,\u201D
+      she says, \u201CCan you hear me?\u201D."
+    price: 200
+    song: {fileID: 0}
+    icon: {fileID: 0}
+  folderPath: Assets/Books/Songs
