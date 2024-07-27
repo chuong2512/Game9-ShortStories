@@ -43,13 +43,13 @@ public class BuyCoinButton : MonoBehaviour
                 _coin = 10;
                 break;
             case 1:
-                _coin = 20;
-                break;
-            case 2:
                 _coin = 30;
                 break;
-            case 3:
+            case 2:
                 _coin = 50;
+                break;
+            case 3:
+                _coin = 100;
                 break;
             case 4:
                 _coin = 100;

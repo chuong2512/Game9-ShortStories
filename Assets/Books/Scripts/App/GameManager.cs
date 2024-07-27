@@ -28,14 +28,5 @@ public class GameManager : PersistentSingleton<GameManager>
     private void SetFirstScreen()
     {
         _uiManager.OpenScreen(ScreenType.HomeScreen);
-        
-        if (_gameData.playerData.time <= 0)
-        {
-            _uiManager.OpenScreen(ScreenType.RegisterScreen);
-        }
-        else if(!_gameData.playerData.IsRate)
-        {
-            _uiManager.OpenScreen(ScreenType.RateGame);
-        }
     }
 }

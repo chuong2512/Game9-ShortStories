@@ -34,7 +34,6 @@ RectTransform:
   - {fileID: 2558560631286542641}
   - {fileID: 7234043648062911517}
   m_Father: {fileID: 4007262303413681225}
-  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -103,7 +102,6 @@ RectTransform:
   - {fileID: 876351696186230071}
   - {fileID: 9127115347833836464}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -184,6 +182,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 9127115347833836464}
     m_Modifications:
     - target: {fileID: 2387224612209779569, guid: 63b50fb83c8e8b74082b472c25d9cc54, type: 3}
@@ -275,6 +274,9 @@ PrefabInstance:
       value: Button Buy Coin (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63b50fb83c8e8b74082b472c25d9cc54, type: 3}
 --- !u!224 &2558560631286542641 stripped
 RectTransform:
@@ -297,6 +299,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 4007262303413681225}
     m_Modifications:
     - target: {fileID: 5499622844081799038, guid: 8eb62d6f64a2c0d418e8d612e6d1e79b, type: 3}
@@ -396,6 +399,9 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8eb62d6f64a2c0d418e8d612e6d1e79b, type: 3}
 --- !u!114 &8967030875431596188 stripped
 MonoBehaviour:
@@ -418,6 +424,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 4007262303413681225}
     m_Modifications:
     - target: {fileID: 789011490965990691, guid: 8eb62d6f64a2c0d418e8d612e6d1e79b, type: 3}
@@ -455,6 +462,10 @@ PrefabInstance:
     - target: {fileID: 5499622844135788344, guid: 8eb62d6f64a2c0d418e8d612e6d1e79b, type: 3}
       propertyPath: m_Name
       value: Button blue (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5499622844135788344, guid: 8eb62d6f64a2c0d418e8d612e6d1e79b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5499622844135788349, guid: 8eb62d6f64a2c0d418e8d612e6d1e79b, type: 3}
       propertyPath: m_Type
@@ -549,6 +560,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5499622844135788344, guid: 8eb62d6f64a2c0d418e8d612e6d1e79b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 930961768537871714}
   m_SourcePrefab: {fileID: 100100000, guid: 8eb62d6f64a2c0d418e8d612e6d1e79b, type: 3}
 --- !u!1 &876351696186230064 stripped
 GameObject:
@@ -578,6 +595,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 9127115347833836464}
     m_Modifications:
     - target: {fileID: 2387224612209779569, guid: 63b50fb83c8e8b74082b472c25d9cc54, type: 3}
@@ -669,6 +687,9 @@ PrefabInstance:
       value: Button Buy Coin (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63b50fb83c8e8b74082b472c25d9cc54, type: 3}
 --- !u!114 &4510110508635580101 stripped
 MonoBehaviour:
@@ -691,6 +712,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 9127115347833836464}
     m_Modifications:
     - target: {fileID: 2387224612209779569, guid: 63b50fb83c8e8b74082b472c25d9cc54, type: 3}
@@ -782,6 +804,9 @@ PrefabInstance:
       value: Button Buy Coin
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63b50fb83c8e8b74082b472c25d9cc54, type: 3}
 --- !u!114 &1371274052451167293 stripped
 MonoBehaviour:
@@ -804,6 +829,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 9127115347833836464}
     m_Modifications:
     - target: {fileID: 2387224612209779569, guid: 63b50fb83c8e8b74082b472c25d9cc54, type: 3}
@@ -895,6 +921,9 @@ PrefabInstance:
       value: Button Buy Coin (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63b50fb83c8e8b74082b472c25d9cc54, type: 3}
 --- !u!114 &938906054526724030 stripped
 MonoBehaviour:
